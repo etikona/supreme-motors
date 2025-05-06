@@ -5,6 +5,7 @@ import Banner from "./HomeComponents/Banner";
 import CompanyDetails from "./HomeComponents/Company";
 import FoundersSection from "./HomeComponents/Founder";
 import MissionVisionSection from "./HomeComponents/Objective";
+import Footer from "@/Shared/Footer";
 
 const HomePage = () => {
   return (
@@ -16,6 +17,7 @@ const HomePage = () => {
         <FoundersSection />
         <MissionVisionSection />
       </main>
+      <Footer />
     </div>
   );
 };
