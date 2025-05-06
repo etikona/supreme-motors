@@ -21,7 +21,7 @@ const navLinks = [
 
 export default function Navbar() {
   return (
-    <nav className="w-full flex items-center justify-between px-6 py-4 shadow-md bg-white sticky top-0 z-50">
+    <nav className="w-full flex items-center justify-between px-6 py-4 shadow-md bg-gray-50 sticky top-0 z-50">
       {/* Logo */}
       <Link href="/" className="text-xl font-bold text-blue-600">
         <Image

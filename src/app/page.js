@@ -4,6 +4,7 @@ import React from "react";
 import Banner from "./HomeComponents/Banner";
 import CompanyDetails from "./HomeComponents/Company";
 import FoundersSection from "./HomeComponents/Founder";
+import MissionVisionSection from "./HomeComponents/Objective";
 
 const HomePage = () => {
   return (
@@ -13,6 +14,7 @@ const HomePage = () => {
         <Banner />
         <CompanyDetails />
         <FoundersSection />
+        <MissionVisionSection />
       </main>
     </div>
   );
