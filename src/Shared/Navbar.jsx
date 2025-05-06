@@ -12,7 +12,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 import Image from "next/image";
-import logo from "../../public/assets/logo.jpg";
+import logo from "../../public/assets/logo.png";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/new-cars", label: "New Cars" },
