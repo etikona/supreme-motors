@@ -13,6 +13,7 @@ import {
 import Image from "next/image";
 import logo from "../../public/assets/logo.png";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -22,6 +23,7 @@ const navLinks = [
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -56,13 +58,17 @@ export default function Navbar() {
       </Link>
 
       {/* Desktop Navigation */}
-      <ul className="hidden md:flex items-center space-x-6 text-sm font-medium text-gray-800">
+      <ul className="hidden md:flex items-center space-x-6 text-sm font-medium">
         {navLinks.map((link) => (
           <li key={link.href}>
             <Link
               href={link.href}
-              className={`hover:text-orange-600 transition-colors duration-200 relative after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1.5px] after:bg-blue-600 hover:after:w-full after:transition-all after:duration-300 ${
-                isScrolled ? "text-gray-800" : "text-slate-900"
+              className={`relative after:absolute after:bottom-0 after:left-0 after:h-[2px] after:transition-all after:duration-300 ${
+                pathname === link.href
+                  ? "text-orange-600 after:w-full after:bg-orange-600"
+                  : `${
+                      isScrolled ? "text-gray-800" : "text-slate-900"
+                    } hover:text-orange-600 after:w-0 after:bg-gray-600 hover:after:w-full`
               }`}
             >
               {link.label}
@@ -105,7 +111,11 @@ export default function Navbar() {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="block py-1.5 px-4 text-base font-medium text-gray-700 hover:bg-gray-50/50 rounded-lg transition-colors"
+                    className={`block py-1.5 px-4 text-base font-medium rounded-lg transition-colors ${
+                      pathname === link.href
+                        ? "bg-orange-100/50 text-orange-600"
+                        : "text-gray-700 hover:bg-gray-50/50"
+                    }`}
                   >
                     {link.label}
                   </Link>

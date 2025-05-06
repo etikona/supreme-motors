@@ -93,7 +93,7 @@ const MissionVisionSection = () => {
                 <h3 className="text-xl font-bold text-gray-900 mb-3">
                   {item.title}
                 </h3>
-                <p className="text-gray-600 text-[15px] leading-relaxed flex-1">
+                <p className="text-slate-950 text-[15px] leading-relaxed flex-1">
                   {item.description}
                 </p>
               </CardContent>

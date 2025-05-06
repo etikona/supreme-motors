@@ -44,7 +44,7 @@ const CompanyDetails = () => {
             <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900">
               About Supreme Motors
             </h2>
-            <Separator className="mt-4 w-24 bg-blue-600 h-1" />
+            <Separator className="mt-4 w-24 bg-orange-600 h-1" />
           </motion.div>
 
           <motion.p
