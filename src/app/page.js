@@ -16,14 +16,10 @@ export const metadata = {
 const HomePage = () => {
   return (
     <div>
-      <Navbar />
-      <main>
-        <Banner />
-        <CompanyDetails />
-        <FoundersSection />
-        <MissionVisionSection />
-      </main>
-      <Footer />
+      <Banner />
+      <CompanyDetails />
+      <FoundersSection />
+      <MissionVisionSection />
     </div>
   );
 };
