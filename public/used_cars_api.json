@@ -1,0 +1,2966 @@
+[
+  {
+    "brand_name": "BMW",
+    "brand_image": "/images/brands/bmw.png",
+    "models": [
+      {
+        "model": "3 Series",
+        "price": "$64488",
+        "image": "/images/used/bmw/3-series.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "39534 km",
+        "description": "3 Series by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "5 Series",
+        "price": "$95729",
+        "image": "/images/used/bmw/5-series.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "101819 km",
+        "description": "5 Series by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "7 Series",
+        "price": "$70783",
+        "image": "/images/used/bmw/7-series.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "170806 km",
+        "description": "7 Series by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "X1",
+        "price": "$53178",
+        "image": "/images/used/bmw/x1.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "5869 km",
+        "description": "X1 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "X3",
+        "price": "$57851",
+        "image": "/images/used/bmw/x3.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "118787 km",
+        "description": "X3 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "X5",
+        "price": "$20405",
+        "image": "/images/used/bmw/x5.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "75211 km",
+        "description": "X5 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "X7",
+        "price": "$55139",
+        "image": "/images/used/bmw/x7.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "196174 km",
+        "description": "X7 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "i3",
+        "price": "$66945",
+        "image": "/images/used/bmw/i3.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "170015 km",
+        "description": "i3 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "i4",
+        "price": "$27994",
+        "image": "/images/used/bmw/i4.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "81107 km",
+        "description": "i4 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "iX",
+        "price": "$8838",
+        "image": "/images/used/bmw/ix.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "92171 km",
+        "description": "iX by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "M3",
+        "price": "$86590",
+        "image": "/images/used/bmw/m3.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "7609 km",
+        "description": "M3 by BMW is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "M5",
+        "price": "$82263",
+        "image": "/images/used/bmw/m5.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "114166 km",
+        "description": "M5 by BMW is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mercedes",
+    "brand_image": "/images/brands/mercedes.png",
+    "models": [
+      {
+        "model": "C-Class",
+        "price": "$6165",
+        "image": "/images/used/mercedes/c-class.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "97858 km",
+        "description": "C-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "E-Class",
+        "price": "$40510",
+        "image": "/images/used/mercedes/e-class.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "4361 km",
+        "description": "E-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "S-Class",
+        "price": "$38571",
+        "image": "/images/used/mercedes/s-class.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "79094 km",
+        "description": "S-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GLA",
+        "price": "$40867",
+        "image": "/images/used/mercedes/gla.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "143521 km",
+        "description": "GLA by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GLC",
+        "price": "$85951",
+        "image": "/images/used/mercedes/glc.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "189569 km",
+        "description": "GLC by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GLE",
+        "price": "$5939",
+        "image": "/images/used/mercedes/gle.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "36861 km",
+        "description": "GLE by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GLS",
+        "price": "$90107",
+        "image": "/images/used/mercedes/gls.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "42502 km",
+        "description": "GLS by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "A-Class",
+        "price": "$81820",
+        "image": "/images/used/mercedes/a-class.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "40296 km",
+        "description": "A-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "B-Class",
+        "price": "$94087",
+        "image": "/images/used/mercedes/b-class.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "9412 km",
+        "description": "B-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "EQC",
+        "price": "$78586",
+        "image": "/images/used/mercedes/eqc.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "188070 km",
+        "description": "EQC by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "AMG GT",
+        "price": "$55889",
+        "image": "/images/used/mercedes/amg-gt.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "4872 km",
+        "description": "AMG GT by Mercedes is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Maybach S-Class",
+        "price": "$83774",
+        "image": "/images/used/mercedes/maybach-s-class.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "99710 km",
+        "description": "Maybach S-Class by Mercedes is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Audi",
+    "brand_image": "/images/brands/audi.png",
+    "models": [
+      {
+        "model": "A3",
+        "price": "$31157",
+        "image": "/images/used/audi/a3.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "48668 km",
+        "description": "A3 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "A4",
+        "price": "$68685",
+        "image": "/images/used/audi/a4.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "149706 km",
+        "description": "A4 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "A6",
+        "price": "$84718",
+        "image": "/images/used/audi/a6.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "144181 km",
+        "description": "A6 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "A8",
+        "price": "$73787",
+        "image": "/images/used/audi/a8.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "114822 km",
+        "description": "A8 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Q3",
+        "price": "$9630",
+        "image": "/images/used/audi/q3.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "195807 km",
+        "description": "Q3 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Q5",
+        "price": "$68176",
+        "image": "/images/used/audi/q5.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "113430 km",
+        "description": "Q5 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Q7",
+        "price": "$93739",
+        "image": "/images/used/audi/q7.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "117613 km",
+        "description": "Q7 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Q8",
+        "price": "$25659",
+        "image": "/images/used/audi/q8.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "172078 km",
+        "description": "Q8 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "e-tron",
+        "price": "$58395",
+        "image": "/images/used/audi/e-tron.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "154238 km",
+        "description": "e-tron by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "RS5",
+        "price": "$8169",
+        "image": "/images/used/audi/rs5.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "93684 km",
+        "description": "RS5 by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "TT",
+        "price": "$48208",
+        "image": "/images/used/audi/tt.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "190009 km",
+        "description": "TT by Audi is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "R8",
+        "price": "$51746",
+        "image": "/images/used/audi/r8.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "69098 km",
+        "description": "R8 by Audi is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tesla",
+    "brand_image": "/images/brands/tesla.png",
+    "models": [
+      {
+        "model": "Model S",
+        "price": "$90083",
+        "image": "/images/used/tesla/model-s.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "162737 km",
+        "description": "Model S by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model 3",
+        "price": "$69629",
+        "image": "/images/used/tesla/model-3.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "15416 km",
+        "description": "Model 3 by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model X",
+        "price": "$65389",
+        "image": "/images/used/tesla/model-x.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "140313 km",
+        "description": "Model X by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model Y",
+        "price": "$79644",
+        "image": "/images/used/tesla/model-y.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "98195 km",
+        "description": "Model Y by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Roadster",
+        "price": "$27510",
+        "image": "/images/used/tesla/roadster.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "107857 km",
+        "description": "Roadster by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cybertruck",
+        "price": "$73787",
+        "image": "/images/used/tesla/cybertruck.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "133363 km",
+        "description": "Cybertruck by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Semi",
+        "price": "$40605",
+        "image": "/images/used/tesla/semi.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "70989 km",
+        "description": "Semi by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model S Plaid",
+        "price": "$77347",
+        "image": "/images/used/tesla/model-s-plaid.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "177351 km",
+        "description": "Model S Plaid by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model X Plaid",
+        "price": "$9492",
+        "image": "/images/used/tesla/model-x-plaid.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "119451 km",
+        "description": "Model X Plaid by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Powerwall",
+        "price": "$57449",
+        "image": "/images/used/tesla/powerwall.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "5315 km",
+        "description": "Powerwall by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Solar Roof",
+        "price": "$6403",
+        "image": "/images/used/tesla/solar-roof.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "177079 km",
+        "description": "Solar Roof by Tesla is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Model 3 Long Range",
+        "price": "$76113",
+        "image": "/images/used/tesla/model-3-long-range.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "10012 km",
+        "description": "Model 3 Long Range by Tesla is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Lamborghini",
+    "brand_image": "/images/brands/lamborghini.png",
+    "models": [
+      {
+        "model": "Aventador",
+        "price": "$62242",
+        "image": "/images/used/lamborghini/aventador.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "76402 km",
+        "description": "Aventador by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Hurac\u00e1n",
+        "price": "$13347",
+        "image": "/images/used/lamborghini/hurac\u00e1n.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "72812 km",
+        "description": "Hurac\u00e1n by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Urus",
+        "price": "$82022",
+        "image": "/images/used/lamborghini/urus.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "197256 km",
+        "description": "Urus by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Revuelto",
+        "price": "$23909",
+        "image": "/images/used/lamborghini/revuelto.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "43045 km",
+        "description": "Revuelto by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Gallardo",
+        "price": "$88260",
+        "image": "/images/used/lamborghini/gallardo.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "115491 km",
+        "description": "Gallardo by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Veneno",
+        "price": "$94284",
+        "image": "/images/used/lamborghini/veneno.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "152162 km",
+        "description": "Veneno by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Centenario",
+        "price": "$18897",
+        "image": "/images/used/lamborghini/centenario.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "80856 km",
+        "description": "Centenario by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Sesto Elemento",
+        "price": "$21444",
+        "image": "/images/used/lamborghini/sesto-elemento.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "42339 km",
+        "description": "Sesto Elemento by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Murci\u00e9lago",
+        "price": "$46169",
+        "image": "/images/used/lamborghini/murci\u00e9lago.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "7908 km",
+        "description": "Murci\u00e9lago by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Diablo",
+        "price": "$99770",
+        "image": "/images/used/lamborghini/diablo.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "190914 km",
+        "description": "Diablo by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Revent\u00f3n",
+        "price": "$60940",
+        "image": "/images/used/lamborghini/revent\u00f3n.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "13454 km",
+        "description": "Revent\u00f3n by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Egoista",
+        "price": "$49675",
+        "image": "/images/used/lamborghini/egoista.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "24677 km",
+        "description": "Egoista by Lamborghini is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Ford",
+    "brand_image": "/images/brands/ford.png",
+    "models": [
+      {
+        "model": "Fiesta",
+        "price": "$76489",
+        "image": "/images/used/ford/fiesta.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "142681 km",
+        "description": "Fiesta by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Focus",
+        "price": "$65105",
+        "image": "/images/used/ford/focus.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "174751 km",
+        "description": "Focus by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Fusion",
+        "price": "$86234",
+        "image": "/images/used/ford/fusion.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "152863 km",
+        "description": "Fusion by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Taurus",
+        "price": "$80625",
+        "image": "/images/used/ford/taurus.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "37480 km",
+        "description": "Taurus by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mustang",
+        "price": "$50582",
+        "image": "/images/used/ford/mustang.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "37464 km",
+        "description": "Mustang by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Escape",
+        "price": "$71438",
+        "image": "/images/used/ford/escape.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "67098 km",
+        "description": "Escape by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Edge",
+        "price": "$9315",
+        "image": "/images/used/ford/edge.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "8712 km",
+        "description": "Edge by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Explorer",
+        "price": "$14104",
+        "image": "/images/used/ford/explorer.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "2090 km",
+        "description": "Explorer by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Expedition",
+        "price": "$95804",
+        "image": "/images/used/ford/expedition.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "21149 km",
+        "description": "Expedition by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Bronco",
+        "price": "$55064",
+        "image": "/images/used/ford/bronco.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "47693 km",
+        "description": "Bronco by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "F-150",
+        "price": "$46075",
+        "image": "/images/used/ford/f-150.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "37808 km",
+        "description": "F-150 by Ford is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Ranger",
+        "price": "$50283",
+        "image": "/images/used/ford/ranger.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "11248 km",
+        "description": "Ranger by Ford is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Jeep",
+    "brand_image": "/images/brands/jeep.png",
+    "models": [
+      {
+        "model": "Renegade",
+        "price": "$94295",
+        "image": "/images/used/jeep/renegade.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "71750 km",
+        "description": "Renegade by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Compass",
+        "price": "$59284",
+        "image": "/images/used/jeep/compass.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "154456 km",
+        "description": "Compass by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cherokee",
+        "price": "$24356",
+        "image": "/images/used/jeep/cherokee.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "54398 km",
+        "description": "Cherokee by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Grand Cherokee",
+        "price": "$15278",
+        "image": "/images/used/jeep/grand-cherokee.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "160119 km",
+        "description": "Grand Cherokee by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Wrangler",
+        "price": "$31585",
+        "image": "/images/used/jeep/wrangler.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "180746 km",
+        "description": "Wrangler by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Gladiator",
+        "price": "$33309",
+        "image": "/images/used/jeep/gladiator.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "130172 km",
+        "description": "Gladiator by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Patriot",
+        "price": "$67285",
+        "image": "/images/used/jeep/patriot.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "166103 km",
+        "description": "Patriot by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Commander",
+        "price": "$68713",
+        "image": "/images/used/jeep/commander.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "82559 km",
+        "description": "Commander by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Liberty",
+        "price": "$21593",
+        "image": "/images/used/jeep/liberty.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "53963 km",
+        "description": "Liberty by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Wagoneer",
+        "price": "$85862",
+        "image": "/images/used/jeep/wagoneer.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "46675 km",
+        "description": "Wagoneer by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Avenger",
+        "price": "$7852",
+        "image": "/images/used/jeep/avenger.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "58281 km",
+        "description": "Avenger by Jeep is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Trailhawk",
+        "price": "$23155",
+        "image": "/images/used/jeep/trailhawk.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "114324 km",
+        "description": "Trailhawk by Jeep is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Land Rover",
+    "brand_image": "/images/brands/land-rover.png",
+    "models": [
+      {
+        "model": "Defender",
+        "price": "$73105",
+        "image": "/images/used/land-rover/defender.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "59327 km",
+        "description": "Defender by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Discovery",
+        "price": "$18214",
+        "image": "/images/used/land-rover/discovery.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "196058 km",
+        "description": "Discovery by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Discovery Sport",
+        "price": "$62605",
+        "image": "/images/used/land-rover/discovery-sport.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "166059 km",
+        "description": "Discovery Sport by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Range Rover",
+        "price": "$53237",
+        "image": "/images/used/land-rover/range-rover.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "85613 km",
+        "description": "Range Rover by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Range Rover Evoque",
+        "price": "$78472",
+        "image": "/images/used/land-rover/range-rover-evoque.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "163847 km",
+        "description": "Range Rover Evoque by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Range Rover Sport",
+        "price": "$81309",
+        "image": "/images/used/land-rover/range-rover-sport.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "107742 km",
+        "description": "Range Rover Sport by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Range Rover Velar",
+        "price": "$59526",
+        "image": "/images/used/land-rover/range-rover-velar.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "36574 km",
+        "description": "Range Rover Velar by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Freelander",
+        "price": "$14535",
+        "image": "/images/used/land-rover/freelander.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "8345 km",
+        "description": "Freelander by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Series I",
+        "price": "$30755",
+        "image": "/images/used/land-rover/series-i.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "110686 km",
+        "description": "Series I by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Series II",
+        "price": "$90803",
+        "image": "/images/used/land-rover/series-ii.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "102138 km",
+        "description": "Series II by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Series III",
+        "price": "$80686",
+        "image": "/images/used/land-rover/series-iii.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "106344 km",
+        "description": "Series III by Land Rover is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Range Stormer",
+        "price": "$58972",
+        "image": "/images/used/land-rover/range-stormer.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "166688 km",
+        "description": "Range Stormer by Land Rover is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Hyundai",
+    "brand_image": "/images/brands/hyundai.png",
+    "models": [
+      {
+        "model": "Elantra",
+        "price": "$59466",
+        "image": "/images/used/hyundai/elantra.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "43552 km",
+        "description": "Elantra by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Sonata",
+        "price": "$80680",
+        "image": "/images/used/hyundai/sonata.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "96845 km",
+        "description": "Sonata by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Accent",
+        "price": "$21399",
+        "image": "/images/used/hyundai/accent.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "108589 km",
+        "description": "Accent by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "i20",
+        "price": "$81015",
+        "image": "/images/used/hyundai/i20.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "21142 km",
+        "description": "i20 by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "i30",
+        "price": "$32431",
+        "image": "/images/used/hyundai/i30.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "143015 km",
+        "description": "i30 by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Creta",
+        "price": "$85839",
+        "image": "/images/used/hyundai/creta.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "102834 km",
+        "description": "Creta by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Tucson",
+        "price": "$45733",
+        "image": "/images/used/hyundai/tucson.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "138925 km",
+        "description": "Tucson by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Santa Fe",
+        "price": "$91967",
+        "image": "/images/used/hyundai/santa-fe.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "127182 km",
+        "description": "Santa Fe by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Palisade",
+        "price": "$18385",
+        "image": "/images/used/hyundai/palisade.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "20211 km",
+        "description": "Palisade by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Kona",
+        "price": "$83614",
+        "image": "/images/used/hyundai/kona.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "21687 km",
+        "description": "Kona by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Venue",
+        "price": "$99113",
+        "image": "/images/used/hyundai/venue.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "166750 km",
+        "description": "Venue by Hyundai is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Verna",
+        "price": "$93227",
+        "image": "/images/used/hyundai/verna.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "2734 km",
+        "description": "Verna by Hyundai is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Honda",
+    "brand_image": "/images/brands/honda.png",
+    "models": [
+      {
+        "model": "Civic",
+        "price": "$72335",
+        "image": "/images/used/honda/civic.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "199064 km",
+        "description": "Civic by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Accord",
+        "price": "$17496",
+        "image": "/images/used/honda/accord.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "40295 km",
+        "description": "Accord by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "City",
+        "price": "$5653",
+        "image": "/images/used/honda/city.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "47360 km",
+        "description": "City by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Jazz",
+        "price": "$46195",
+        "image": "/images/used/honda/jazz.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "65490 km",
+        "description": "Jazz by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Amaze",
+        "price": "$22639",
+        "image": "/images/used/honda/amaze.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "181171 km",
+        "description": "Amaze by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CR-V",
+        "price": "$69000",
+        "image": "/images/used/honda/cr-v.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "68023 km",
+        "description": "CR-V by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "HR-V",
+        "price": "$72583",
+        "image": "/images/used/honda/hr-v.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "56155 km",
+        "description": "HR-V by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Pilot",
+        "price": "$69287",
+        "image": "/images/used/honda/pilot.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "105129 km",
+        "description": "Pilot by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Odyssey",
+        "price": "$25196",
+        "image": "/images/used/honda/odyssey.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "37962 km",
+        "description": "Odyssey by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Fit",
+        "price": "$20394",
+        "image": "/images/used/honda/fit.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "60362 km",
+        "description": "Fit by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "WR-V",
+        "price": "$66372",
+        "image": "/images/used/honda/wr-v.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "75678 km",
+        "description": "WR-V by Honda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Passport",
+        "price": "$75512",
+        "image": "/images/used/honda/passport.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "197047 km",
+        "description": "Passport by Honda is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tyota",
+    "brand_image": "/images/brands/tyota.png",
+    "models": [
+      {
+        "model": "Corolla",
+        "price": "$82177",
+        "image": "/images/used/tyota/corolla.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "163440 km",
+        "description": "Corolla by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Camry",
+        "price": "$46649",
+        "image": "/images/used/tyota/camry.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "114110 km",
+        "description": "Camry by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Prius",
+        "price": "$87002",
+        "image": "/images/used/tyota/prius.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "192444 km",
+        "description": "Prius by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Yaris",
+        "price": "$53316",
+        "image": "/images/used/tyota/yaris.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "29930 km",
+        "description": "Yaris by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Supra",
+        "price": "$41229",
+        "image": "/images/used/tyota/supra.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "82601 km",
+        "description": "Supra by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Fortuner",
+        "price": "$85230",
+        "image": "/images/used/tyota/fortuner.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "89877 km",
+        "description": "Fortuner by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Innova",
+        "price": "$42635",
+        "image": "/images/used/tyota/innova.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "39073 km",
+        "description": "Innova by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Land Cruiser",
+        "price": "$48290",
+        "image": "/images/used/tyota/land-cruiser.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "164750 km",
+        "description": "Land Cruiser by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Hilux",
+        "price": "$79217",
+        "image": "/images/used/tyota/hilux.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "100725 km",
+        "description": "Hilux by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "C-HR",
+        "price": "$94704",
+        "image": "/images/used/tyota/c-hr.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "64064 km",
+        "description": "C-HR by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "RAV4",
+        "price": "$94810",
+        "image": "/images/used/tyota/rav4.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "78878 km",
+        "description": "RAV4 by Tyota is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Avalon",
+        "price": "$53397",
+        "image": "/images/used/tyota/avalon.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "163813 km",
+        "description": "Avalon by Tyota is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tata",
+    "brand_image": "/images/brands/tata.png",
+    "models": [
+      {
+        "model": "Nano",
+        "price": "$37464",
+        "image": "/images/used/tata/nano.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "23405 km",
+        "description": "Nano by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Tiago",
+        "price": "$86088",
+        "image": "/images/used/tata/tiago.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "171615 km",
+        "description": "Tiago by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Tigor",
+        "price": "$78417",
+        "image": "/images/used/tata/tigor.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "154157 km",
+        "description": "Tigor by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Altroz",
+        "price": "$88033",
+        "image": "/images/used/tata/altroz.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "70103 km",
+        "description": "Altroz by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Nexon",
+        "price": "$13865",
+        "image": "/images/used/tata/nexon.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "130953 km",
+        "description": "Nexon by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Harrier",
+        "price": "$29372",
+        "image": "/images/used/tata/harrier.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "153866 km",
+        "description": "Harrier by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Safari",
+        "price": "$47901",
+        "image": "/images/used/tata/safari.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "144243 km",
+        "description": "Safari by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Punch",
+        "price": "$43520",
+        "image": "/images/used/tata/punch.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "119657 km",
+        "description": "Punch by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Hexa",
+        "price": "$46369",
+        "image": "/images/used/tata/hexa.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "123373 km",
+        "description": "Hexa by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Zest",
+        "price": "$82740",
+        "image": "/images/used/tata/zest.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "60505 km",
+        "description": "Zest by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Bolt",
+        "price": "$92264",
+        "image": "/images/used/tata/bolt.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "173919 km",
+        "description": "Bolt by Tata is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Aria",
+        "price": "$80205",
+        "image": "/images/used/tata/aria.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "110000 km",
+        "description": "Aria by Tata is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mini Cooper",
+    "brand_image": "/images/brands/mini-cooper.png",
+    "models": [
+      {
+        "model": "Hardtop 2 Door",
+        "price": "$95674",
+        "image": "/images/used/mini-cooper/hardtop-2-door.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "197595 km",
+        "description": "Hardtop 2 Door by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Hardtop 4 Door",
+        "price": "$47781",
+        "image": "/images/used/mini-cooper/hardtop-4-door.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "7977 km",
+        "description": "Hardtop 4 Door by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Convertible",
+        "price": "$93622",
+        "image": "/images/used/mini-cooper/convertible.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "48809 km",
+        "description": "Convertible by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Clubman",
+        "price": "$94386",
+        "image": "/images/used/mini-cooper/clubman.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "14876 km",
+        "description": "Clubman by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Countryman",
+        "price": "$81338",
+        "image": "/images/used/mini-cooper/countryman.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "63086 km",
+        "description": "Countryman by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "SE Electric",
+        "price": "$14031",
+        "image": "/images/used/mini-cooper/se-electric.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "197495 km",
+        "description": "SE Electric by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "John Cooper Works",
+        "price": "$39060",
+        "image": "/images/used/mini-cooper/john-cooper-works.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "80262 km",
+        "description": "John Cooper Works by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GP",
+        "price": "$77597",
+        "image": "/images/used/mini-cooper/gp.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "78033 km",
+        "description": "GP by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Paceman",
+        "price": "$8868",
+        "image": "/images/used/mini-cooper/paceman.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "154903 km",
+        "description": "Paceman by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Coupe",
+        "price": "$25549",
+        "image": "/images/used/mini-cooper/coupe.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "122577 km",
+        "description": "Coupe by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Roadster",
+        "price": "$85226",
+        "image": "/images/used/mini-cooper/roadster.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "82410 km",
+        "description": "Roadster by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Rocketman",
+        "price": "$50949",
+        "image": "/images/used/mini-cooper/rocketman.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "15438 km",
+        "description": "Rocketman by Mini Cooper is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Volvo",
+    "brand_image": "/images/brands/volvo.png",
+    "models": [
+      {
+        "model": "S60",
+        "price": "$78978",
+        "image": "/images/used/volvo/s60.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "91476 km",
+        "description": "S60 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "S90",
+        "price": "$20148",
+        "image": "/images/used/volvo/s90.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "164067 km",
+        "description": "S90 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "V60",
+        "price": "$70148",
+        "image": "/images/used/volvo/v60.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "157552 km",
+        "description": "V60 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "V90",
+        "price": "$94269",
+        "image": "/images/used/volvo/v90.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "175989 km",
+        "description": "V90 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XC40",
+        "price": "$20942",
+        "image": "/images/used/volvo/xc40.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "161590 km",
+        "description": "XC40 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XC60",
+        "price": "$40100",
+        "image": "/images/used/volvo/xc60.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "84605 km",
+        "description": "XC60 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XC90",
+        "price": "$12843",
+        "image": "/images/used/volvo/xc90.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "93476 km",
+        "description": "XC90 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "C40 Recharge",
+        "price": "$59652",
+        "image": "/images/used/volvo/c40-recharge.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "14097 km",
+        "description": "C40 Recharge by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "V60 Cross Country",
+        "price": "$35120",
+        "image": "/images/used/volvo/v60-cross-country.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "25273 km",
+        "description": "V60 Cross Country by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "V90 Cross Country",
+        "price": "$15718",
+        "image": "/images/used/volvo/v90-cross-country.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "57141 km",
+        "description": "V90 Cross Country by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "850",
+        "price": "$29349",
+        "image": "/images/used/volvo/850.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "2522 km",
+        "description": "850 by Volvo is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "240",
+        "price": "$52719",
+        "image": "/images/used/volvo/240.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "70672 km",
+        "description": "240 by Volvo is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Nissan",
+    "brand_image": "/images/brands/nissan.png",
+    "models": [
+      {
+        "model": "Micra",
+        "price": "$13005",
+        "image": "/images/used/nissan/micra.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "76813 km",
+        "description": "Micra by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Sunny",
+        "price": "$24491",
+        "image": "/images/used/nissan/sunny.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "66880 km",
+        "description": "Sunny by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Altima",
+        "price": "$8623",
+        "image": "/images/used/nissan/altima.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "130995 km",
+        "description": "Altima by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Sentra",
+        "price": "$52212",
+        "image": "/images/used/nissan/sentra.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "43936 km",
+        "description": "Sentra by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Maxima",
+        "price": "$10460",
+        "image": "/images/used/nissan/maxima.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "124825 km",
+        "description": "Maxima by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "370Z",
+        "price": "$71063",
+        "image": "/images/used/nissan/370z.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "155625 km",
+        "description": "370Z by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GT-R",
+        "price": "$19151",
+        "image": "/images/used/nissan/gt-r.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "131582 km",
+        "description": "GT-R by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Juke",
+        "price": "$57740",
+        "image": "/images/used/nissan/juke.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "13800 km",
+        "description": "Juke by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Kicks",
+        "price": "$33958",
+        "image": "/images/used/nissan/kicks.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "175771 km",
+        "description": "Kicks by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Rogue",
+        "price": "$27898",
+        "image": "/images/used/nissan/rogue.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "113697 km",
+        "description": "Rogue by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Murano",
+        "price": "$98002",
+        "image": "/images/used/nissan/murano.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "169742 km",
+        "description": "Murano by Nissan is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Pathfinder",
+        "price": "$23560",
+        "image": "/images/used/nissan/pathfinder.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "98078 km",
+        "description": "Pathfinder by Nissan is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Jaguar",
+    "brand_image": "/images/brands/jaguar.png",
+    "models": [
+      {
+        "model": "XE",
+        "price": "$9608",
+        "image": "/images/used/jaguar/xe.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "25409 km",
+        "description": "XE by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XF",
+        "price": "$51696",
+        "image": "/images/used/jaguar/xf.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "16289 km",
+        "description": "XF by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XJ",
+        "price": "$92942",
+        "image": "/images/used/jaguar/xj.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "53350 km",
+        "description": "XJ by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "F-Pace",
+        "price": "$7887",
+        "image": "/images/used/jaguar/f-pace.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "12580 km",
+        "description": "F-Pace by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "E-Pace",
+        "price": "$98192",
+        "image": "/images/used/jaguar/e-pace.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "82425 km",
+        "description": "E-Pace by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "I-Pace",
+        "price": "$56397",
+        "image": "/images/used/jaguar/i-pace.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "50625 km",
+        "description": "I-Pace by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "F-Type",
+        "price": "$86568",
+        "image": "/images/used/jaguar/f-type.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "151004 km",
+        "description": "F-Type by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XK",
+        "price": "$65969",
+        "image": "/images/used/jaguar/xk.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "157345 km",
+        "description": "XK by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "X-Type",
+        "price": "$35443",
+        "image": "/images/used/jaguar/x-type.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "78413 km",
+        "description": "X-Type by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "S-Type",
+        "price": "$31960",
+        "image": "/images/used/jaguar/s-type.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "156257 km",
+        "description": "S-Type by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mark 2",
+        "price": "$93448",
+        "image": "/images/used/jaguar/mark-2.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "127094 km",
+        "description": "Mark 2 by Jaguar is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "D-Type",
+        "price": "$39512",
+        "image": "/images/used/jaguar/d-type.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "85758 km",
+        "description": "D-Type by Jaguar is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Porshe",
+    "brand_image": "/images/brands/porshe.png",
+    "models": [
+      {
+        "model": "911",
+        "price": "$82856",
+        "image": "/images/used/porshe/911.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "167094 km",
+        "description": "911 by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cayman",
+        "price": "$71917",
+        "image": "/images/used/porshe/cayman.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "70772 km",
+        "description": "Cayman by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Boxster",
+        "price": "$19324",
+        "image": "/images/used/porshe/boxster.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "87619 km",
+        "description": "Boxster by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Panamera",
+        "price": "$7133",
+        "image": "/images/used/porshe/panamera.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "48197 km",
+        "description": "Panamera by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Macan",
+        "price": "$70913",
+        "image": "/images/used/porshe/macan.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "171216 km",
+        "description": "Macan by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cayenne",
+        "price": "$24528",
+        "image": "/images/used/porshe/cayenne.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "24963 km",
+        "description": "Cayenne by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Taycan",
+        "price": "$53027",
+        "image": "/images/used/porshe/taycan.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "76902 km",
+        "description": "Taycan by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "918 Spyder",
+        "price": "$79067",
+        "image": "/images/used/porshe/918-spyder.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "48242 km",
+        "description": "918 Spyder by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "356",
+        "price": "$77612",
+        "image": "/images/used/porshe/356.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "55627 km",
+        "description": "356 by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "944",
+        "price": "$54471",
+        "image": "/images/used/porshe/944.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "197904 km",
+        "description": "944 by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "968",
+        "price": "$14694",
+        "image": "/images/used/porshe/968.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "13391 km",
+        "description": "968 by Porshe is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "928",
+        "price": "$43394",
+        "image": "/images/used/porshe/928.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "184125 km",
+        "description": "928 by Porshe is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Rolls-Royace",
+    "brand_image": "/images/brands/rolls-royace.png",
+    "models": [
+      {
+        "model": "Phantom",
+        "price": "$99000",
+        "image": "/images/used/rolls-royace/phantom.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "62020 km",
+        "description": "Phantom by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Ghost",
+        "price": "$59217",
+        "image": "/images/used/rolls-royace/ghost.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "186390 km",
+        "description": "Ghost by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Wraith",
+        "price": "$72824",
+        "image": "/images/used/rolls-royace/wraith.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "140600 km",
+        "description": "Wraith by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Dawn",
+        "price": "$81735",
+        "image": "/images/used/rolls-royace/dawn.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "199311 km",
+        "description": "Dawn by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cullinan",
+        "price": "$69156",
+        "image": "/images/used/rolls-royace/cullinan.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "running_kilometers": "111243 km",
+        "description": "Cullinan by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Silver Shadow",
+        "price": "$36183",
+        "image": "/images/used/rolls-royace/silver-shadow.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "111529 km",
+        "description": "Silver Shadow by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Silver Spirit",
+        "price": "$36989",
+        "image": "/images/used/rolls-royace/silver-spirit.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "143452 km",
+        "description": "Silver Spirit by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Silver Spur",
+        "price": "$30746",
+        "image": "/images/used/rolls-royace/silver-spur.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "193943 km",
+        "description": "Silver Spur by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Corniche",
+        "price": "$99229",
+        "image": "/images/used/rolls-royace/corniche.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "55665 km",
+        "description": "Corniche by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Camargue",
+        "price": "$85051",
+        "image": "/images/used/rolls-royace/camargue.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "84851 km",
+        "description": "Camargue by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Park Ward",
+        "price": "$24523",
+        "image": "/images/used/rolls-royace/park-ward.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "101777 km",
+        "description": "Park Ward by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Silver Seraph",
+        "price": "$74034",
+        "image": "/images/used/rolls-royace/silver-seraph.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "137279 km",
+        "description": "Silver Seraph by Rolls-Royace is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Aston-Martin",
+    "brand_image": "/images/brands/aston-martin.png",
+    "models": [
+      {
+        "model": "DB11",
+        "price": "$63478",
+        "image": "/images/used/aston-martin/db11.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "100074 km",
+        "description": "DB11 by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Vantage",
+        "price": "$50707",
+        "image": "/images/used/aston-martin/vantage.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "180709 km",
+        "description": "Vantage by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "DBS",
+        "price": "$39600",
+        "image": "/images/used/aston-martin/dbs.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "190764 km",
+        "description": "DBS by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "DBX",
+        "price": "$74721",
+        "image": "/images/used/aston-martin/dbx.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "21619 km",
+        "description": "DBX by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Rapide",
+        "price": "$82866",
+        "image": "/images/used/aston-martin/rapide.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "60809 km",
+        "description": "Rapide by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Valhalla",
+        "price": "$26567",
+        "image": "/images/used/aston-martin/valhalla.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "56152 km",
+        "description": "Valhalla by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Valkyrie",
+        "price": "$90212",
+        "image": "/images/used/aston-martin/valkyrie.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "6998 km",
+        "description": "Valkyrie by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Lagonda",
+        "price": "$49335",
+        "image": "/images/used/aston-martin/lagonda.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "144087 km",
+        "description": "Lagonda by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Virage",
+        "price": "$35839",
+        "image": "/images/used/aston-martin/virage.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "running_kilometers": "82118 km",
+        "description": "Virage by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Vanquish",
+        "price": "$44318",
+        "image": "/images/used/aston-martin/vanquish.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "71162 km",
+        "description": "Vanquish by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cygnet",
+        "price": "$97549",
+        "image": "/images/used/aston-martin/cygnet.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "84581 km",
+        "description": "Cygnet by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "One-77",
+        "price": "$16738",
+        "image": "/images/used/aston-martin/one-77.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "189950 km",
+        "description": "One-77 by Aston-Martin is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Ferrari",
+    "brand_image": "/images/brands/ferrari.png",
+    "models": [
+      {
+        "model": "488 GTB",
+        "price": "$37579",
+        "image": "/images/used/ferrari/488-gtb.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "177359 km",
+        "description": "488 GTB by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "F8 Tributo",
+        "price": "$59200",
+        "image": "/images/used/ferrari/f8-tributo.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "9864 km",
+        "description": "F8 Tributo by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "812 Superfast",
+        "price": "$93347",
+        "image": "/images/used/ferrari/812-superfast.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "88493 km",
+        "description": "812 Superfast by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Roma",
+        "price": "$51657",
+        "image": "/images/used/ferrari/roma.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "127389 km",
+        "description": "Roma by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Portofino",
+        "price": "$43203",
+        "image": "/images/used/ferrari/portofino.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "135015 km",
+        "description": "Portofino by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "SF90",
+        "price": "$25848",
+        "image": "/images/used/ferrari/sf90.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "179570 km",
+        "description": "SF90 by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "LaFerrari",
+        "price": "$67537",
+        "image": "/images/used/ferrari/laferrari.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "running_kilometers": "70036 km",
+        "description": "LaFerrari by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "California",
+        "price": "$76910",
+        "image": "/images/used/ferrari/california.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "8639 km",
+        "description": "California by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "458 Italia",
+        "price": "$75908",
+        "image": "/images/used/ferrari/458-italia.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "159695 km",
+        "description": "458 Italia by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "360 Modena",
+        "price": "$94086",
+        "image": "/images/used/ferrari/360-modena.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "113918 km",
+        "description": "360 Modena by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Enzo",
+        "price": "$51156",
+        "image": "/images/used/ferrari/enzo.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "166583 km",
+        "description": "Enzo by Ferrari is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Testarossa",
+        "price": "$8195",
+        "image": "/images/used/ferrari/testarossa.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "156721 km",
+        "description": "Testarossa by Ferrari is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Bently",
+    "brand_image": "/images/brands/bently.png",
+    "models": [
+      {
+        "model": "Continental GT",
+        "price": "$56641",
+        "image": "/images/used/bently/continental-gt.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "80832 km",
+        "description": "Continental GT by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Flying Spur",
+        "price": "$44049",
+        "image": "/images/used/bently/flying-spur.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "37488 km",
+        "description": "Flying Spur by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Bentayga",
+        "price": "$96037",
+        "image": "/images/used/bently/bentayga.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "105085 km",
+        "description": "Bentayga by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mulsanne",
+        "price": "$89494",
+        "image": "/images/used/bently/mulsanne.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "61231 km",
+        "description": "Mulsanne by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Arnage",
+        "price": "$87755",
+        "image": "/images/used/bently/arnage.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "18441 km",
+        "description": "Arnage by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Azure",
+        "price": "$58927",
+        "image": "/images/used/bently/azure.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "22510 km",
+        "description": "Azure by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Brooklands",
+        "price": "$84509",
+        "image": "/images/used/bently/brooklands.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "running_kilometers": "174544 km",
+        "description": "Brooklands by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Turbo R",
+        "price": "$81084",
+        "image": "/images/used/bently/turbo-r.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "101712 km",
+        "description": "Turbo R by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Eight",
+        "price": "$93736",
+        "image": "/images/used/bently/eight.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "122471 km",
+        "description": "Eight by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "T-Series",
+        "price": "$34915",
+        "image": "/images/used/bently/t-series.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "running_kilometers": "136495 km",
+        "description": "T-Series by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "S-Series",
+        "price": "$22344",
+        "image": "/images/used/bently/s-series.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "181832 km",
+        "description": "S-Series by Bently is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mark VI",
+        "price": "$73544",
+        "image": "/images/used/bently/mark-vi.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "46686 km",
+        "description": "Mark VI by Bently is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mc Laren",
+    "brand_image": "/images/brands/mc-laren.png",
+    "models": [
+      {
+        "model": "570S",
+        "price": "$51089",
+        "image": "/images/used/mc-laren/570s.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "12268 km",
+        "description": "570S by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "600LT",
+        "price": "$84512",
+        "image": "/images/used/mc-laren/600lt.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "running_kilometers": "81339 km",
+        "description": "600LT by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "720S",
+        "price": "$65481",
+        "image": "/images/used/mc-laren/720s.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "126743 km",
+        "description": "720S by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "765LT",
+        "price": "$41408",
+        "image": "/images/used/mc-laren/765lt.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "108322 km",
+        "description": "765LT by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Artura",
+        "price": "$81520",
+        "image": "/images/used/mc-laren/artura.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "199871 km",
+        "description": "Artura by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "P1",
+        "price": "$82457",
+        "image": "/images/used/mc-laren/p1.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "48673 km",
+        "description": "P1 by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GT",
+        "price": "$51436",
+        "image": "/images/used/mc-laren/gt.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "141985 km",
+        "description": "GT by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Elva",
+        "price": "$52096",
+        "image": "/images/used/mc-laren/elva.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "15435 km",
+        "description": "Elva by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Speedtail",
+        "price": "$31144",
+        "image": "/images/used/mc-laren/speedtail.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "1634 km",
+        "description": "Speedtail by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Senna",
+        "price": "$10478",
+        "image": "/images/used/mc-laren/senna.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "173172 km",
+        "description": "Senna by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "650S",
+        "price": "$51601",
+        "image": "/images/used/mc-laren/650s.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "148194 km",
+        "description": "650S by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MP4-12C",
+        "price": "$54373",
+        "image": "/images/used/mc-laren/mp4-12c.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "running_kilometers": "34528 km",
+        "description": "MP4-12C by Mc Laren is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Maserati",
+    "brand_image": "/images/brands/maserati.png",
+    "models": [
+      {
+        "model": "Ghibli",
+        "price": "$28139",
+        "image": "/images/used/maserati/ghibli.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "76919 km",
+        "description": "Ghibli by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Levante",
+        "price": "$95065",
+        "image": "/images/used/maserati/levante.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "running_kilometers": "169833 km",
+        "description": "Levante by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Quattroporte",
+        "price": "$13887",
+        "image": "/images/used/maserati/quattroporte.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "63249 km",
+        "description": "Quattroporte by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GranTurismo",
+        "price": "$24511",
+        "image": "/images/used/maserati/granturismo.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "191812 km",
+        "description": "GranTurismo by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "GranCabrio",
+        "price": "$37590",
+        "image": "/images/used/maserati/grancabrio.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "115635 km",
+        "description": "GranCabrio by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MC20",
+        "price": "$42200",
+        "image": "/images/used/maserati/mc20.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "running_kilometers": "26412 km",
+        "description": "MC20 by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Biturbo",
+        "price": "$35187",
+        "image": "/images/used/maserati/biturbo.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "104283 km",
+        "description": "Biturbo by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "3200 GT",
+        "price": "$47881",
+        "image": "/images/used/maserati/3200-gt.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "131784 km",
+        "description": "3200 GT by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Shamal",
+        "price": "$35402",
+        "image": "/images/used/maserati/shamal.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "23909 km",
+        "description": "Shamal by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Bora",
+        "price": "$35067",
+        "image": "/images/used/maserati/bora.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "198349 km",
+        "description": "Bora by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Merak",
+        "price": "$70140",
+        "image": "/images/used/maserati/merak.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "35645 km",
+        "description": "Merak by Maserati is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Kyalami",
+        "price": "$92142",
+        "image": "/images/used/maserati/kyalami.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "96847 km",
+        "description": "Kyalami by Maserati is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Suzuki",
+    "brand_image": "/images/brands/suzuki.png",
+    "models": [
+      {
+        "model": "Swift",
+        "price": "$77426",
+        "image": "/images/used/suzuki/swift.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "160015 km",
+        "description": "Swift by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Dzire",
+        "price": "$61734",
+        "image": "/images/used/suzuki/dzire.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "36539 km",
+        "description": "Dzire by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Baleno",
+        "price": "$29114",
+        "image": "/images/used/suzuki/baleno.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "106900 km",
+        "description": "Baleno by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Ciaz",
+        "price": "$56146",
+        "image": "/images/used/suzuki/ciaz.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "51910 km",
+        "description": "Ciaz by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Vitara Brezza",
+        "price": "$97418",
+        "image": "/images/used/suzuki/vitara-brezza.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "44509 km",
+        "description": "Vitara Brezza by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "S-Cross",
+        "price": "$55054",
+        "image": "/images/used/suzuki/s-cross.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "68053 km",
+        "description": "S-Cross by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Ignis",
+        "price": "$98270",
+        "image": "/images/used/suzuki/ignis.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "171779 km",
+        "description": "Ignis by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "XL6",
+        "price": "$26726",
+        "image": "/images/used/suzuki/xl6.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "149786 km",
+        "description": "XL6 by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Alto",
+        "price": "$41140",
+        "image": "/images/used/suzuki/alto.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "168020 km",
+        "description": "Alto by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "WagonR",
+        "price": "$98728",
+        "image": "/images/used/suzuki/wagonr.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "running_kilometers": "10343 km",
+        "description": "WagonR by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Ertiga",
+        "price": "$47284",
+        "image": "/images/used/suzuki/ertiga.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "running_kilometers": "70480 km",
+        "description": "Ertiga by Suzuki is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Jimny",
+        "price": "$20264",
+        "image": "/images/used/suzuki/jimny.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "15091 km",
+        "description": "Jimny by Suzuki is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "MG",
+    "brand_image": "/images/brands/mg.png",
+    "models": [
+      {
+        "model": "Hector",
+        "price": "$35345",
+        "image": "/images/used/mg/hector.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "running_kilometers": "129747 km",
+        "description": "Hector by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Astor",
+        "price": "$23656",
+        "image": "/images/used/mg/astor.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "149596 km",
+        "description": "Astor by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Gloster",
+        "price": "$47240",
+        "image": "/images/used/mg/gloster.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "running_kilometers": "180771 km",
+        "description": "Gloster by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "ZS EV",
+        "price": "$97340",
+        "image": "/images/used/mg/zs-ev.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "running_kilometers": "15521 km",
+        "description": "ZS EV by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MG5",
+        "price": "$15960",
+        "image": "/images/used/mg/mg5.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "running_kilometers": "197953 km",
+        "description": "MG5 by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MG3",
+        "price": "$77691",
+        "image": "/images/used/mg/mg3.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "running_kilometers": "20559 km",
+        "description": "MG3 by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MG6",
+        "price": "$60252",
+        "image": "/images/used/mg/mg6.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "running_kilometers": "40650 km",
+        "description": "MG6 by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Marvel R",
+        "price": "$81832",
+        "image": "/images/used/mg/marvel-r.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "running_kilometers": "73826 km",
+        "description": "Marvel R by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Extender",
+        "price": "$20010",
+        "image": "/images/used/mg/extender.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "139438 km",
+        "description": "Extender by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "RX5",
+        "price": "$17646",
+        "image": "/images/used/mg/rx5.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "63301 km",
+        "description": "RX5 by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Cyberster",
+        "price": "$56006",
+        "image": "/images/used/mg/cyberster.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "67356 km",
+        "description": "Cyberster by MG is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "eHS",
+        "price": "$63004",
+        "image": "/images/used/mg/ehs.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "96159 km",
+        "description": "eHS by MG is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mazda",
+    "brand_image": "/images/brands/mazda.png",
+    "models": [
+      {
+        "model": "Mazda2",
+        "price": "$34505",
+        "image": "/images/used/mazda/mazda2.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "142833 km",
+        "description": "Mazda2 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mazda3",
+        "price": "$82312",
+        "image": "/images/used/mazda/mazda3.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "running_kilometers": "55844 km",
+        "description": "Mazda3 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "Mazda6",
+        "price": "$62757",
+        "image": "/images/used/mazda/mazda6.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "160024 km",
+        "description": "Mazda6 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CX-3",
+        "price": "$24525",
+        "image": "/images/used/mazda/cx-3.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "running_kilometers": "142657 km",
+        "description": "CX-3 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CX-30",
+        "price": "$91677",
+        "image": "/images/used/mazda/cx-30.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "running_kilometers": "15690 km",
+        "description": "CX-30 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CX-5",
+        "price": "$21089",
+        "image": "/images/used/mazda/cx-5.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "running_kilometers": "23016 km",
+        "description": "CX-5 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CX-50",
+        "price": "$87980",
+        "image": "/images/used/mazda/cx-50.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "running_kilometers": "115906 km",
+        "description": "CX-50 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "CX-9",
+        "price": "$8550",
+        "image": "/images/used/mazda/cx-9.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "running_kilometers": "50447 km",
+        "description": "CX-9 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "MX-5 Miata",
+        "price": "$86792",
+        "image": "/images/used/mazda/mx-5-miata.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "running_kilometers": "3457 km",
+        "description": "MX-5 Miata by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "RX-7",
+        "price": "$16594",
+        "image": "/images/used/mazda/rx-7.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "running_kilometers": "18816 km",
+        "description": "RX-7 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "RX-8",
+        "price": "$81720",
+        "image": "/images/used/mazda/rx-8.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "running_kilometers": "194784 km",
+        "description": "RX-8 by Mazda is a used vehicle in good condition with reliable performance and features."
+      },
+      {
+        "model": "BT-50",
+        "price": "$90763",
+        "image": "/images/used/mazda/bt-50.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "running_kilometers": "127044 km",
+        "description": "BT-50 by Mazda is a used vehicle in good condition with reliable performance and features."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2654 @@
+[
+  {
+    "brand_name": "BMW",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCfsLasqOSp0Iz7GhGIN39Sj-_DR_9ctpKw&s",
+    "models": [
+      {
+        "model": "3 Series",
+        "price": "$51710",
+        "image": "/images/bmw/3-series.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "3 Series by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "5 Series",
+        "price": "$139570",
+        "image": "/images/bmw/5-series.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "5 Series by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "7 Series",
+        "price": "$42061",
+        "image": "/images/bmw/7-series.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "7 Series by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "X1",
+        "price": "$151309",
+        "image": "/images/bmw/x1.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "X1 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "X3",
+        "price": "$107716",
+        "image": "/images/bmw/x3.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "X3 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "X5",
+        "price": "$191057",
+        "image": "/images/bmw/x5.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "X5 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "X7",
+        "price": "$199133",
+        "image": "/images/bmw/x7.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "X7 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "i3",
+        "price": "$42090",
+        "image": "/images/bmw/i3.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "i3 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "i4",
+        "price": "$64161",
+        "image": "/images/bmw/i4.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "i4 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "iX",
+        "price": "$146557",
+        "image": "/images/bmw/ix.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "iX by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "M3",
+        "price": "$113096",
+        "image": "/images/bmw/m3.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "M3 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "M5",
+        "price": "$84692",
+        "image": "/images/bmw/m5.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "M5 by BMW is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mercedes",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKQ6zit6uy-AHenscudhEdPf1W3kUaY7GvA&s",
+    "models": [
+      {
+        "model": "C-Class",
+        "price": "$173568",
+        "image": "/images/mercedes/c-class.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "C-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "E-Class",
+        "price": "$185549",
+        "image": "/images/mercedes/e-class.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "E-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "S-Class",
+        "price": "$110675",
+        "image": "/images/mercedes/s-class.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "S-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GLA",
+        "price": "$41770",
+        "image": "/images/mercedes/gla.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "GLA by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GLC",
+        "price": "$45471",
+        "image": "/images/mercedes/glc.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "GLC by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GLE",
+        "price": "$129357",
+        "image": "/images/mercedes/gle.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "GLE by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GLS",
+        "price": "$64982",
+        "image": "/images/mercedes/gls.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "GLS by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "A-Class",
+        "price": "$24795",
+        "image": "/images/mercedes/a-class.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "A-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "B-Class",
+        "price": "$165415",
+        "image": "/images/mercedes/b-class.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "B-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "EQC",
+        "price": "$151224",
+        "image": "/images/mercedes/eqc.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "EQC by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "AMG GT",
+        "price": "$102581",
+        "image": "/images/mercedes/amg-gt.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "AMG GT by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Maybach S-Class",
+        "price": "$177868",
+        "image": "/images/mercedes/maybach-s-class.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Maybach S-Class by Mercedes is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Audi",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjw0CAfUd641iIV4YOdtLXAs1kBtbNzxy1g&s",
+    "models": [
+      {
+        "model": "A3",
+        "price": "$163418",
+        "image": "/images/audi/a3.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "A3 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "A4",
+        "price": "$24241",
+        "image": "/images/audi/a4.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "A4 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "A6",
+        "price": "$72624",
+        "image": "/images/audi/a6.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "A6 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "A8",
+        "price": "$125077",
+        "image": "/images/audi/a8.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "A8 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Q3",
+        "price": "$82920",
+        "image": "/images/audi/q3.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Q3 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Q5",
+        "price": "$139310",
+        "image": "/images/audi/q5.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Q5 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Q7",
+        "price": "$39498",
+        "image": "/images/audi/q7.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "Q7 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Q8",
+        "price": "$63910",
+        "image": "/images/audi/q8.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Q8 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "e-tron",
+        "price": "$57389",
+        "image": "/images/audi/e-tron.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "e-tron by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "RS5",
+        "price": "$107844",
+        "image": "/images/audi/rs5.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "RS5 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "TT",
+        "price": "$106359",
+        "image": "/images/audi/tt.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "TT by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "R8",
+        "price": "$38876",
+        "image": "/images/audi/r8.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "R8 by Audi is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tesla",
+    "brand_image": "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logomark-Black-Logo.wine.svg",
+    "models": [
+      {
+        "model": "Model S",
+        "price": "$174233",
+        "image": "/images/tesla/model-s.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "Model S by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model 3",
+        "price": "$193176",
+        "image": "/images/tesla/model-3.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "Model 3 by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model X",
+        "price": "$148151",
+        "image": "/images/tesla/model-x.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Model X by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model Y",
+        "price": "$73143",
+        "image": "/images/tesla/model-y.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "Model Y by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Roadster",
+        "price": "$194782",
+        "image": "/images/tesla/roadster.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Roadster by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cybertruck",
+        "price": "$102058",
+        "image": "/images/tesla/cybertruck.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Cybertruck by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Semi",
+        "price": "$91321",
+        "image": "/images/tesla/semi.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Semi by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model S Plaid",
+        "price": "$36771",
+        "image": "/images/tesla/model-s-plaid.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Model S Plaid by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model X Plaid",
+        "price": "$163016",
+        "image": "/images/tesla/model-x-plaid.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Model X Plaid by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Powerwall",
+        "price": "$180968",
+        "image": "/images/tesla/powerwall.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Powerwall by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Solar Roof",
+        "price": "$129897",
+        "image": "/images/tesla/solar-roof.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "Solar Roof by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Model 3 Long Range",
+        "price": "$198920",
+        "image": "/images/tesla/model-3-long-range.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Model 3 Long Range by Tesla is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Lamborghini",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU_xYq1N1zn2W0kC-9-uYZ-On0XmJNwqWjA&s",
+    "models": [
+      {
+        "model": "Aventador",
+        "price": "$74842",
+        "image": "/images/lamborghini/aventador.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "Aventador by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Hurac\u00e1n",
+        "price": "$94818",
+        "image": "/images/lamborghini/hurac\u00e1n.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "Hurac\u00e1n by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Urus",
+        "price": "$29263",
+        "image": "/images/lamborghini/urus.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Urus by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Revuelto",
+        "price": "$146947",
+        "image": "/images/lamborghini/revuelto.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Revuelto by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Gallardo",
+        "price": "$50739",
+        "image": "/images/lamborghini/gallardo.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "Gallardo by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Veneno",
+        "price": "$63777",
+        "image": "/images/lamborghini/veneno.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Veneno by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Centenario",
+        "price": "$154058",
+        "image": "/images/lamborghini/centenario.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Centenario by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Sesto Elemento",
+        "price": "$102721",
+        "image": "/images/lamborghini/sesto-elemento.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Sesto Elemento by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Murci\u00e9lago",
+        "price": "$148415",
+        "image": "/images/lamborghini/murci\u00e9lago.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Murci\u00e9lago by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Diablo",
+        "price": "$89627",
+        "image": "/images/lamborghini/diablo.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Diablo by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Revent\u00f3n",
+        "price": "$43951",
+        "image": "/images/lamborghini/revent\u00f3n.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Revent\u00f3n by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Egoista",
+        "price": "$156070",
+        "image": "/images/lamborghini/egoista.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Egoista by Lamborghini is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Ford",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8iwahvHPa3xpO5QtzYEnUC-WTTr5AWa0ZA&s",
+    "models": [
+      {
+        "model": "Fiesta",
+        "price": "$131212",
+        "image": "/images/ford/fiesta.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Fiesta by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Focus",
+        "price": "$178095",
+        "image": "/images/ford/focus.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Focus by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Fusion",
+        "price": "$124405",
+        "image": "/images/ford/fusion.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Fusion by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Taurus",
+        "price": "$60490",
+        "image": "/images/ford/taurus.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "Taurus by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mustang",
+        "price": "$162030",
+        "image": "/images/ford/mustang.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Mustang by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Escape",
+        "price": "$174165",
+        "image": "/images/ford/escape.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Escape by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Edge",
+        "price": "$31834",
+        "image": "/images/ford/edge.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Edge by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Explorer",
+        "price": "$189609",
+        "image": "/images/ford/explorer.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "Explorer by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Expedition",
+        "price": "$174735",
+        "image": "/images/ford/expedition.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Expedition by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Bronco",
+        "price": "$164738",
+        "image": "/images/ford/bronco.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Bronco by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "F-150",
+        "price": "$28484",
+        "image": "/images/ford/f-150.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "F-150 by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Ranger",
+        "price": "$199141",
+        "image": "/images/ford/ranger.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "Ranger by Ford is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Jeep",
+    "brand_image": "https://logos-world.net/wp-content/uploads/2021/09/Jeep-Logo.png",
+    "models": [
+      {
+        "model": "Renegade",
+        "price": "$192621",
+        "image": "/images/jeep/renegade.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Renegade by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Compass",
+        "price": "$111561",
+        "image": "/images/jeep/compass.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "Compass by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cherokee",
+        "price": "$108061",
+        "image": "/images/jeep/cherokee.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Cherokee by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Grand Cherokee",
+        "price": "$40396",
+        "image": "/images/jeep/grand-cherokee.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Grand Cherokee by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Wrangler",
+        "price": "$151968",
+        "image": "/images/jeep/wrangler.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Wrangler by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Gladiator",
+        "price": "$180836",
+        "image": "/images/jeep/gladiator.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Gladiator by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Patriot",
+        "price": "$63179",
+        "image": "/images/jeep/patriot.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Patriot by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Commander",
+        "price": "$163601",
+        "image": "/images/jeep/commander.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Commander by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Liberty",
+        "price": "$188771",
+        "image": "/images/jeep/liberty.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Liberty by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Wagoneer",
+        "price": "$194039",
+        "image": "/images/jeep/wagoneer.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Wagoneer by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Avenger",
+        "price": "$185615",
+        "image": "/images/jeep/avenger.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Avenger by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Trailhawk",
+        "price": "$121801",
+        "image": "/images/jeep/trailhawk.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Trailhawk by Jeep is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Land Rover",
+    "brand_image": "https://images.seeklogo.com/logo-png/20/1/land-rover-logo-png_seeklogo-201638.png",
+    "models": [
+      {
+        "model": "Defender",
+        "price": "$171971",
+        "image": "/images/land-rover/defender.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Defender by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Discovery",
+        "price": "$73388",
+        "image": "/images/land-rover/discovery.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Discovery by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Discovery Sport",
+        "price": "$119570",
+        "image": "/images/land-rover/discovery-sport.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Discovery Sport by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Range Rover",
+        "price": "$78108",
+        "image": "/images/land-rover/range-rover.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Range Rover by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Range Rover Evoque",
+        "price": "$98672",
+        "image": "/images/land-rover/range-rover-evoque.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Range Rover Evoque by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Range Rover Sport",
+        "price": "$124950",
+        "image": "/images/land-rover/range-rover-sport.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "Range Rover Sport by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Range Rover Velar",
+        "price": "$111235",
+        "image": "/images/land-rover/range-rover-velar.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "Range Rover Velar by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Freelander",
+        "price": "$189717",
+        "image": "/images/land-rover/freelander.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "Freelander by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Series I",
+        "price": "$63530",
+        "image": "/images/land-rover/series-i.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "Series I by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Series II",
+        "price": "$59294",
+        "image": "/images/land-rover/series-ii.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Series II by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Series III",
+        "price": "$90604",
+        "image": "/images/land-rover/series-iii.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Series III by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Range Stormer",
+        "price": "$182705",
+        "image": "/images/land-rover/range-stormer.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "Range Stormer by Land Rover is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Hyundai",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMGRlQ0mQCEZiaK0B9CqH3u8i2FOC2-XTNA&s",
+    "models": [
+      {
+        "model": "Elantra",
+        "price": "$131410",
+        "image": "/images/hyundai/elantra.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Elantra by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Sonata",
+        "price": "$162622",
+        "image": "/images/hyundai/sonata.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Sonata by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Accent",
+        "price": "$71035",
+        "image": "/images/hyundai/accent.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Accent by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "i20",
+        "price": "$76395",
+        "image": "/images/hyundai/i20.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "i20 by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "i30",
+        "price": "$109998",
+        "image": "/images/hyundai/i30.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "i30 by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Creta",
+        "price": "$151528",
+        "image": "/images/hyundai/creta.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Creta by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Tucson",
+        "price": "$125052",
+        "image": "/images/hyundai/tucson.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "Tucson by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Santa Fe",
+        "price": "$134894",
+        "image": "/images/hyundai/santa-fe.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Santa Fe by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Palisade",
+        "price": "$76820",
+        "image": "/images/hyundai/palisade.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Palisade by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Kona",
+        "price": "$165453",
+        "image": "/images/hyundai/kona.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Kona by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Venue",
+        "price": "$55333",
+        "image": "/images/hyundai/venue.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "Venue by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Verna",
+        "price": "$134662",
+        "image": "/images/hyundai/verna.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Verna by Hyundai is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Honda",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfWfenrbxYGSZSMrH_gcGSzVtklWaOIlFeA&s",
+    "models": [
+      {
+        "model": "Civic",
+        "price": "$138406",
+        "image": "/images/honda/civic.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Civic by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Accord",
+        "price": "$47476",
+        "image": "/images/honda/accord.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Accord by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "City",
+        "price": "$97762",
+        "image": "/images/honda/city.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "City by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Jazz",
+        "price": "$120793",
+        "image": "/images/honda/jazz.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Jazz by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Amaze",
+        "price": "$71757",
+        "image": "/images/honda/amaze.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Amaze by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CR-V",
+        "price": "$93680",
+        "image": "/images/honda/cr-v.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "CR-V by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "HR-V",
+        "price": "$141034",
+        "image": "/images/honda/hr-v.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "HR-V by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Pilot",
+        "price": "$160636",
+        "image": "/images/honda/pilot.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Pilot by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Odyssey",
+        "price": "$46781",
+        "image": "/images/honda/odyssey.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "Odyssey by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Fit",
+        "price": "$78010",
+        "image": "/images/honda/fit.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "Fit by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "WR-V",
+        "price": "$97386",
+        "image": "/images/honda/wr-v.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "WR-V by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Passport",
+        "price": "$128964",
+        "image": "/images/honda/passport.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Passport by Honda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tyota",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvGP-PIZvE-T76XKwaOg-1sOGBL1M3tPa5w&s",
+    "models": [
+      {
+        "model": "Corolla",
+        "price": "$192653",
+        "image": "/images/tyota/corolla.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Corolla by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Camry",
+        "price": "$107319",
+        "image": "/images/tyota/camry.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Camry by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Prius",
+        "price": "$71466",
+        "image": "/images/tyota/prius.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Prius by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Yaris",
+        "price": "$40604",
+        "image": "/images/tyota/yaris.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "Yaris by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Supra",
+        "price": "$32899",
+        "image": "/images/tyota/supra.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Supra by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Fortuner",
+        "price": "$192109",
+        "image": "/images/tyota/fortuner.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "Fortuner by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Innova",
+        "price": "$158808",
+        "image": "/images/tyota/innova.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "Innova by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Land Cruiser",
+        "price": "$58872",
+        "image": "/images/tyota/land-cruiser.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Land Cruiser by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Hilux",
+        "price": "$47390",
+        "image": "/images/tyota/hilux.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Hilux by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "C-HR",
+        "price": "$61684",
+        "image": "/images/tyota/c-hr.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "C-HR by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "RAV4",
+        "price": "$168207",
+        "image": "/images/tyota/rav4.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "RAV4 by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Avalon",
+        "price": "$176727",
+        "image": "/images/tyota/avalon.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "Avalon by Tyota is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tata",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFy_Qv0GCP4MH801MzOjx56YwcbdMgfBHAFA&s",
+    "models": [
+      {
+        "model": "Nano",
+        "price": "$24206",
+        "image": "/images/tata/nano.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "Nano by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Tiago",
+        "price": "$120312",
+        "image": "/images/tata/tiago.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Tiago by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Tigor",
+        "price": "$65522",
+        "image": "/images/tata/tigor.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "Tigor by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Altroz",
+        "price": "$164910",
+        "image": "/images/tata/altroz.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "Altroz by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Nexon",
+        "price": "$173648",
+        "image": "/images/tata/nexon.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Nexon by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Harrier",
+        "price": "$125569",
+        "image": "/images/tata/harrier.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "Harrier by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Safari",
+        "price": "$178732",
+        "image": "/images/tata/safari.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "Safari by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Punch",
+        "price": "$48706",
+        "image": "/images/tata/punch.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "Punch by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Hexa",
+        "price": "$153996",
+        "image": "/images/tata/hexa.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Hexa by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Zest",
+        "price": "$155682",
+        "image": "/images/tata/zest.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Zest by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Bolt",
+        "price": "$173587",
+        "image": "/images/tata/bolt.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Bolt by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Aria",
+        "price": "$120630",
+        "image": "/images/tata/aria.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "Aria by Tata is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mini Cooper",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Lm8-nlnUZ-vCuKearhod9QNKhWY45n-icA&s",
+    "models": [
+      {
+        "model": "Hardtop 2 Door",
+        "price": "$107922",
+        "image": "/images/mini-cooper/hardtop-2-door.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Hardtop 2 Door by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Hardtop 4 Door",
+        "price": "$198598",
+        "image": "/images/mini-cooper/hardtop-4-door.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Hardtop 4 Door by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Convertible",
+        "price": "$189314",
+        "image": "/images/mini-cooper/convertible.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "Convertible by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Clubman",
+        "price": "$45659",
+        "image": "/images/mini-cooper/clubman.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "Clubman by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Countryman",
+        "price": "$110229",
+        "image": "/images/mini-cooper/countryman.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Countryman by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "SE Electric",
+        "price": "$117002",
+        "image": "/images/mini-cooper/se-electric.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "SE Electric by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "John Cooper Works",
+        "price": "$66914",
+        "image": "/images/mini-cooper/john-cooper-works.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "John Cooper Works by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GP",
+        "price": "$138350",
+        "image": "/images/mini-cooper/gp.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "GP by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Paceman",
+        "price": "$191353",
+        "image": "/images/mini-cooper/paceman.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Paceman by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Coupe",
+        "price": "$38384",
+        "image": "/images/mini-cooper/coupe.jpg",
+        "body_type": "Sedan",
+        "car_type": "Diesel",
+        "description": "Coupe by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Roadster",
+        "price": "$171477",
+        "image": "/images/mini-cooper/roadster.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "Roadster by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Rocketman",
+        "price": "$109312",
+        "image": "/images/mini-cooper/rocketman.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Rocketman by Mini Cooper is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Volvo",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSj4KmtnzfekYyWOBIIr9dc7Ch65kKS8hBag&s",
+    "models": [
+      {
+        "model": "S60",
+        "price": "$59166",
+        "image": "/images/volvo/s60.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "S60 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "S90",
+        "price": "$172376",
+        "image": "/images/volvo/s90.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "S90 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "V60",
+        "price": "$57488",
+        "image": "/images/volvo/v60.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "V60 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "V90",
+        "price": "$168682",
+        "image": "/images/volvo/v90.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "V90 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XC40",
+        "price": "$34170",
+        "image": "/images/volvo/xc40.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "XC40 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XC60",
+        "price": "$115997",
+        "image": "/images/volvo/xc60.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "XC60 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XC90",
+        "price": "$190001",
+        "image": "/images/volvo/xc90.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "XC90 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "C40 Recharge",
+        "price": "$114472",
+        "image": "/images/volvo/c40-recharge.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "C40 Recharge by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "V60 Cross Country",
+        "price": "$125916",
+        "image": "/images/volvo/v60-cross-country.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "V60 Cross Country by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "V90 Cross Country",
+        "price": "$97076",
+        "image": "/images/volvo/v90-cross-country.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "V90 Cross Country by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "850",
+        "price": "$119417",
+        "image": "/images/volvo/850.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "850 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "240",
+        "price": "$171371",
+        "image": "/images/volvo/240.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "240 by Volvo is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Nissan",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Pccxrc98AwKo8eNRDQ6BVwuNGAaNP2zFsA&s",
+    "models": [
+      {
+        "model": "Micra",
+        "price": "$89365",
+        "image": "/images/nissan/micra.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Micra by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Sunny",
+        "price": "$40200",
+        "image": "/images/nissan/sunny.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Sunny by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Altima",
+        "price": "$124764",
+        "image": "/images/nissan/altima.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Altima by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Sentra",
+        "price": "$73051",
+        "image": "/images/nissan/sentra.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Sentra by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Maxima",
+        "price": "$49934",
+        "image": "/images/nissan/maxima.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Maxima by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "370Z",
+        "price": "$65916",
+        "image": "/images/nissan/370z.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "370Z by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GT-R",
+        "price": "$55531",
+        "image": "/images/nissan/gt-r.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "GT-R by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Juke",
+        "price": "$134286",
+        "image": "/images/nissan/juke.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Juke by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Kicks",
+        "price": "$137674",
+        "image": "/images/nissan/kicks.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Kicks by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Rogue",
+        "price": "$190412",
+        "image": "/images/nissan/rogue.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "Rogue by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Murano",
+        "price": "$58075",
+        "image": "/images/nissan/murano.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Murano by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Pathfinder",
+        "price": "$152588",
+        "image": "/images/nissan/pathfinder.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Pathfinder by Nissan is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Jaguar",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DbbpHM6KHmwEKfhaXfg7Dxbino5rzHbbMA&s",
+    "models": [
+      {
+        "model": "XE",
+        "price": "$152041",
+        "image": "/images/jaguar/xe.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "XE by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XF",
+        "price": "$37495",
+        "image": "/images/jaguar/xf.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "XF by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XJ",
+        "price": "$47861",
+        "image": "/images/jaguar/xj.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "XJ by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "F-Pace",
+        "price": "$30859",
+        "image": "/images/jaguar/f-pace.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "F-Pace by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "E-Pace",
+        "price": "$79060",
+        "image": "/images/jaguar/e-pace.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "E-Pace by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "I-Pace",
+        "price": "$174250",
+        "image": "/images/jaguar/i-pace.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "I-Pace by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "F-Type",
+        "price": "$103089",
+        "image": "/images/jaguar/f-type.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "F-Type by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XK",
+        "price": "$192615",
+        "image": "/images/jaguar/xk.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "XK by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "X-Type",
+        "price": "$120274",
+        "image": "/images/jaguar/x-type.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "X-Type by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "S-Type",
+        "price": "$121427",
+        "image": "/images/jaguar/s-type.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "S-Type by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mark 2",
+        "price": "$139520",
+        "image": "/images/jaguar/mark-2.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Mark 2 by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "D-Type",
+        "price": "$64099",
+        "image": "/images/jaguar/d-type.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "D-Type by Jaguar is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Porshe",
+    "brand_image": "https://www.pngall.com/wp-content/uploads/13/Porsche-Logo-PNG-Photos.png",
+    "models": [
+      {
+        "model": "911",
+        "price": "$169240",
+        "image": "/images/porshe/911.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "911 by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cayman",
+        "price": "$100454",
+        "image": "/images/porshe/cayman.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Cayman by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Boxster",
+        "price": "$71889",
+        "image": "/images/porshe/boxster.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Boxster by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Panamera",
+        "price": "$141435",
+        "image": "/images/porshe/panamera.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Panamera by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Macan",
+        "price": "$102157",
+        "image": "/images/porshe/macan.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Macan by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cayenne",
+        "price": "$91619",
+        "image": "/images/porshe/cayenne.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Cayenne by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Taycan",
+        "price": "$183866",
+        "image": "/images/porshe/taycan.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Taycan by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "918 Spyder",
+        "price": "$133060",
+        "image": "/images/porshe/918-spyder.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "918 Spyder by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "356",
+        "price": "$101730",
+        "image": "/images/porshe/356.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "356 by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "944",
+        "price": "$172981",
+        "image": "/images/porshe/944.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "944 by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "968",
+        "price": "$85142",
+        "image": "/images/porshe/968.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "968 by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "928",
+        "price": "$164039",
+        "image": "/images/porshe/928.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "928 by Porshe is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Rolls-Royace",
+    "brand_image": "https://pngimg.com/d/rolls_royce_PNG27.png",
+    "models": [
+      {
+        "model": "Phantom",
+        "price": "$21517",
+        "image": "/images/rolls-royace/phantom.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "Phantom by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Ghost",
+        "price": "$56360",
+        "image": "/images/rolls-royace/ghost.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Ghost by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Wraith",
+        "price": "$102151",
+        "image": "/images/rolls-royace/wraith.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Wraith by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Dawn",
+        "price": "$160141",
+        "image": "/images/rolls-royace/dawn.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Dawn by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cullinan",
+        "price": "$52695",
+        "image": "/images/rolls-royace/cullinan.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Cullinan by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Silver Shadow",
+        "price": "$109405",
+        "image": "/images/rolls-royace/silver-shadow.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Diesel",
+        "description": "Silver Shadow by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Silver Spirit",
+        "price": "$137240",
+        "image": "/images/rolls-royace/silver-spirit.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Silver Spirit by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Silver Spur",
+        "price": "$63689",
+        "image": "/images/rolls-royace/silver-spur.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "Silver Spur by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Corniche",
+        "price": "$190746",
+        "image": "/images/rolls-royace/corniche.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Corniche by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Camargue",
+        "price": "$87272",
+        "image": "/images/rolls-royace/camargue.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "Camargue by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Park Ward",
+        "price": "$30746",
+        "image": "/images/rolls-royace/park-ward.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Park Ward by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Silver Seraph",
+        "price": "$52096",
+        "image": "/images/rolls-royace/silver-seraph.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Silver Seraph by Rolls-Royace is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Aston-Martin",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRy86-Tpv7tASWvrI87Ysu3p0E80JpNAfEw&s",
+    "models": [
+      {
+        "model": "DB11",
+        "price": "$143572",
+        "image": "/images/aston-martin/db11.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "DB11 by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Vantage",
+        "price": "$161210",
+        "image": "/images/aston-martin/vantage.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "Vantage by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "DBS",
+        "price": "$100321",
+        "image": "/images/aston-martin/dbs.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "DBS by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "DBX",
+        "price": "$114215",
+        "image": "/images/aston-martin/dbx.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "DBX by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Rapide",
+        "price": "$67481",
+        "image": "/images/aston-martin/rapide.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Rapide by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Valhalla",
+        "price": "$169569",
+        "image": "/images/aston-martin/valhalla.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Valhalla by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Valkyrie",
+        "price": "$54931",
+        "image": "/images/aston-martin/valkyrie.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Valkyrie by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Lagonda",
+        "price": "$54307",
+        "image": "/images/aston-martin/lagonda.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Lagonda by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Virage",
+        "price": "$31884",
+        "image": "/images/aston-martin/virage.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Virage by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Vanquish",
+        "price": "$105823",
+        "image": "/images/aston-martin/vanquish.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Vanquish by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cygnet",
+        "price": "$23839",
+        "image": "/images/aston-martin/cygnet.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Cygnet by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "One-77",
+        "price": "$132074",
+        "image": "/images/aston-martin/one-77.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "One-77 by Aston-Martin is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Ferrari",
+    "brand_image": "https://www.cdnlogo.com/logos/f/89/ferrari-ges.svg",
+    "models": [
+      {
+        "model": "488 GTB",
+        "price": "$176258",
+        "image": "/images/ferrari/488-gtb.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "488 GTB by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "F8 Tributo",
+        "price": "$162406",
+        "image": "/images/ferrari/f8-tributo.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "F8 Tributo by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "812 Superfast",
+        "price": "$57131",
+        "image": "/images/ferrari/812-superfast.jpg",
+        "body_type": "Coupe",
+        "car_type": "Electric",
+        "description": "812 Superfast by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Roma",
+        "price": "$196024",
+        "image": "/images/ferrari/roma.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "Roma by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Portofino",
+        "price": "$191850",
+        "image": "/images/ferrari/portofino.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "Portofino by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "SF90",
+        "price": "$181378",
+        "image": "/images/ferrari/sf90.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "SF90 by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "LaFerrari",
+        "price": "$137151",
+        "image": "/images/ferrari/laferrari.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "LaFerrari by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "California",
+        "price": "$155827",
+        "image": "/images/ferrari/california.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "California by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "458 Italia",
+        "price": "$94686",
+        "image": "/images/ferrari/458-italia.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "458 Italia by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "360 Modena",
+        "price": "$111339",
+        "image": "/images/ferrari/360-modena.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "360 Modena by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Enzo",
+        "price": "$44630",
+        "image": "/images/ferrari/enzo.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "Enzo by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Testarossa",
+        "price": "$137864",
+        "image": "/images/ferrari/testarossa.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Testarossa by Ferrari is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Bently",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoq1_Xx2ExfWNZbL2wwwWXghijhq2J7Srr7g&s",
+    "models": [
+      {
+        "model": "Continental GT",
+        "price": "$22142",
+        "image": "/images/bently/continental-gt.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Continental GT by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Flying Spur",
+        "price": "$34989",
+        "image": "/images/bently/flying-spur.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Flying Spur by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Bentayga",
+        "price": "$189779",
+        "image": "/images/bently/bentayga.jpg",
+        "body_type": "SUV",
+        "car_type": "Electric",
+        "description": "Bentayga by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mulsanne",
+        "price": "$108794",
+        "image": "/images/bently/mulsanne.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Mulsanne by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Arnage",
+        "price": "$89782",
+        "image": "/images/bently/arnage.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Arnage by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Azure",
+        "price": "$178334",
+        "image": "/images/bently/azure.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Azure by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Brooklands",
+        "price": "$159344",
+        "image": "/images/bently/brooklands.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Brooklands by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Turbo R",
+        "price": "$81058",
+        "image": "/images/bently/turbo-r.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Turbo R by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Eight",
+        "price": "$153455",
+        "image": "/images/bently/eight.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Eight by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "T-Series",
+        "price": "$176832",
+        "image": "/images/bently/t-series.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "T-Series by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "S-Series",
+        "price": "$39487",
+        "image": "/images/bently/s-series.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "S-Series by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mark VI",
+        "price": "$31366",
+        "image": "/images/bently/mark-vi.jpg",
+        "body_type": "Sedan",
+        "car_type": "Petrol",
+        "description": "Mark VI by Bently is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mc Laren",
+    "brand_image": "https://www.pngall.com/wp-content/uploads/2016/04/McLaren-Logo-PNG.png",
+    "models": [
+      {
+        "model": "570S",
+        "price": "$39158",
+        "image": "/images/mc-laren/570s.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "570S by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "600LT",
+        "price": "$152733",
+        "image": "/images/mc-laren/600lt.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "600LT by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "720S",
+        "price": "$85775",
+        "image": "/images/mc-laren/720s.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "720S by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "765LT",
+        "price": "$123913",
+        "image": "/images/mc-laren/765lt.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "765LT by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Artura",
+        "price": "$83268",
+        "image": "/images/mc-laren/artura.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "Artura by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "P1",
+        "price": "$93863",
+        "image": "/images/mc-laren/p1.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "P1 by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GT",
+        "price": "$89597",
+        "image": "/images/mc-laren/gt.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "GT by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Elva",
+        "price": "$31243",
+        "image": "/images/mc-laren/elva.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "Elva by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Speedtail",
+        "price": "$52190",
+        "image": "/images/mc-laren/speedtail.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "Speedtail by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Senna",
+        "price": "$49638",
+        "image": "/images/mc-laren/senna.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Senna by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "650S",
+        "price": "$40348",
+        "image": "/images/mc-laren/650s.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "650S by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MP4-12C",
+        "price": "$138407",
+        "image": "/images/mc-laren/mp4-12c.jpg",
+        "body_type": "Convertible",
+        "car_type": "Electric",
+        "description": "MP4-12C by Mc Laren is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Maserati",
+    "brand_image": "https://w7.pngwing.com/pngs/463/418/png-transparent-maserati-car-mercedes-benz-honda-logo-fiat-maserati-text-logo-car-thumbnail.png",
+    "models": [
+      {
+        "model": "Ghibli",
+        "price": "$185774",
+        "image": "/images/maserati/ghibli.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "Ghibli by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Levante",
+        "price": "$195614",
+        "image": "/images/maserati/levante.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "Levante by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Quattroporte",
+        "price": "$146933",
+        "image": "/images/maserati/quattroporte.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Quattroporte by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GranTurismo",
+        "price": "$105366",
+        "image": "/images/maserati/granturismo.jpg",
+        "body_type": "Convertible",
+        "car_type": "Hybrid",
+        "description": "GranTurismo by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "GranCabrio",
+        "price": "$126136",
+        "image": "/images/maserati/grancabrio.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "GranCabrio by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MC20",
+        "price": "$79719",
+        "image": "/images/maserati/mc20.jpg",
+        "body_type": "Coupe",
+        "car_type": "Hybrid",
+        "description": "MC20 by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Biturbo",
+        "price": "$92402",
+        "image": "/images/maserati/biturbo.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Biturbo by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "3200 GT",
+        "price": "$80389",
+        "image": "/images/maserati/3200-gt.jpg",
+        "body_type": "Sedan",
+        "car_type": "Electric",
+        "description": "3200 GT by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Shamal",
+        "price": "$145075",
+        "image": "/images/maserati/shamal.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Shamal by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Bora",
+        "price": "$169181",
+        "image": "/images/maserati/bora.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Bora by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Merak",
+        "price": "$173961",
+        "image": "/images/maserati/merak.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "Merak by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Kyalami",
+        "price": "$95048",
+        "image": "/images/maserati/kyalami.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Kyalami by Maserati is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Maruti Suzuki",
+    "brand_image": "https://www.cdnlogo.com/logos/m/85/maruti-suzuki.svg",
+    "models": [
+      {
+        "model": "Swift",
+        "price": "$94477",
+        "image": "/images/suzuki/swift.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Swift by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Dzire",
+        "price": "$97044",
+        "image": "/images/suzuki/dzire.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Electric",
+        "description": "Dzire by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Baleno",
+        "price": "$34282",
+        "image": "/images/suzuki/baleno.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Baleno by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Ciaz",
+        "price": "$104982",
+        "image": "/images/suzuki/ciaz.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Ciaz by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Vitara Brezza",
+        "price": "$162919",
+        "image": "/images/suzuki/vitara-brezza.jpg",
+        "body_type": "Wagon",
+        "car_type": "Hybrid",
+        "description": "Vitara Brezza by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "S-Cross",
+        "price": "$172364",
+        "image": "/images/suzuki/s-cross.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "S-Cross by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Ignis",
+        "price": "$82319",
+        "image": "/images/suzuki/ignis.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "Ignis by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "XL6",
+        "price": "$65277",
+        "image": "/images/suzuki/xl6.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "XL6 by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Alto",
+        "price": "$182642",
+        "image": "/images/suzuki/alto.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Alto by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "WagonR",
+        "price": "$127331",
+        "image": "/images/suzuki/wagonr.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "WagonR by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Ertiga",
+        "price": "$25323",
+        "image": "/images/suzuki/ertiga.jpg",
+        "body_type": "Wagon",
+        "car_type": "Diesel",
+        "description": "Ertiga by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Jimny",
+        "price": "$96505",
+        "image": "/images/suzuki/jimny.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Jimny by Suzuki is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "MG",
+    "brand_image": "https://seeklogo.com/images/M/MG-logo-C8D5AAF597-seeklogo.com.png",
+    "models": [
+      {
+        "model": "Hector",
+        "price": "$103607",
+        "image": "/images/mg/hector.jpg",
+        "body_type": "Pickup",
+        "car_type": "Petrol",
+        "description": "Hector by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Astor",
+        "price": "$179791",
+        "image": "/images/mg/astor.jpg",
+        "body_type": "Pickup",
+        "car_type": "Hybrid",
+        "description": "Astor by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Gloster",
+        "price": "$164471",
+        "image": "/images/mg/gloster.jpg",
+        "body_type": "Pickup",
+        "car_type": "Electric",
+        "description": "Gloster by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "ZS EV",
+        "price": "$83569",
+        "image": "/images/mg/zs-ev.jpg",
+        "body_type": "SUV",
+        "car_type": "Petrol",
+        "description": "ZS EV by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MG5",
+        "price": "$79490",
+        "image": "/images/mg/mg5.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "MG5 by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MG3",
+        "price": "$133309",
+        "image": "/images/mg/mg3.jpg",
+        "body_type": "Wagon",
+        "car_type": "Electric",
+        "description": "MG3 by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MG6",
+        "price": "$63426",
+        "image": "/images/mg/mg6.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "MG6 by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Marvel R",
+        "price": "$68479",
+        "image": "/images/mg/marvel-r.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Marvel R by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Extender",
+        "price": "$25102",
+        "image": "/images/mg/extender.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "Extender by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "RX5",
+        "price": "$81554",
+        "image": "/images/mg/rx5.jpg",
+        "body_type": "Convertible",
+        "car_type": "Diesel",
+        "description": "RX5 by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Cyberster",
+        "price": "$21998",
+        "image": "/images/mg/cyberster.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "Cyberster by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "eHS",
+        "price": "$96759",
+        "image": "/images/mg/ehs.jpg",
+        "body_type": "Wagon",
+        "car_type": "Petrol",
+        "description": "eHS by MG is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mazda",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFX_FFzg7a3F0AYu3K8gSNSY2cMDtEnLHpw&s",
+    "models": [
+      {
+        "model": "Mazda2",
+        "price": "$80290",
+        "image": "/images/mazda/mazda2.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "Mazda2 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mazda3",
+        "price": "$94338",
+        "image": "/images/mazda/mazda3.jpg",
+        "body_type": "SUV",
+        "car_type": "Hybrid",
+        "description": "Mazda3 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "Mazda6",
+        "price": "$92066",
+        "image": "/images/mazda/mazda6.jpg",
+        "body_type": "Convertible",
+        "car_type": "Petrol",
+        "description": "Mazda6 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CX-3",
+        "price": "$96830",
+        "image": "/images/mazda/cx-3.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "CX-3 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CX-30",
+        "price": "$180261",
+        "image": "/images/mazda/cx-30.jpg",
+        "body_type": "SUV",
+        "car_type": "Diesel",
+        "description": "CX-30 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CX-5",
+        "price": "$114031",
+        "image": "/images/mazda/cx-5.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Petrol",
+        "description": "CX-5 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CX-50",
+        "price": "$28117",
+        "image": "/images/mazda/cx-50.jpg",
+        "body_type": "Sedan",
+        "car_type": "Hybrid",
+        "description": "CX-50 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "CX-9",
+        "price": "$106223",
+        "image": "/images/mazda/cx-9.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "CX-9 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "MX-5 Miata",
+        "price": "$172889",
+        "image": "/images/mazda/mx-5-miata.jpg",
+        "body_type": "Coupe",
+        "car_type": "Petrol",
+        "description": "MX-5 Miata by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "RX-7",
+        "price": "$171578",
+        "image": "/images/mazda/rx-7.jpg",
+        "body_type": "Coupe",
+        "car_type": "Diesel",
+        "description": "RX-7 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "RX-8",
+        "price": "$139891",
+        "image": "/images/mazda/rx-8.jpg",
+        "body_type": "Pickup",
+        "car_type": "Diesel",
+        "description": "RX-8 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      },
+      {
+        "model": "BT-50",
+        "price": "$38425",
+        "image": "/images/mazda/bt-50.jpg",
+        "body_type": "Hatchback",
+        "car_type": "Hybrid",
+        "description": "BT-50 by Mazda is a premium vehicle known for its performance and features, ideal for both urban and highway driving."
+      }
+    ]
+  }
+]

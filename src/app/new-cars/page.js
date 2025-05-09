@@ -1,9 +1,11 @@
-import NewCarsHero from "./NewCars";
+import NewBrands from "./NewBrands";
+import NewCarsHero from "./NewCarsBanner";
 
 const NewCars = () => {
   return (
     <div>
       <NewCarsHero />
+      <NewBrands />
     </div>
   );
 };
