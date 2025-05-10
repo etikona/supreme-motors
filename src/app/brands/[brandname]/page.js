@@ -12,12 +12,23 @@ import {
   DialogTitle,
 } from "@/components/ui/dialog";
 
+import { CheckCircle, XCircle } from "lucide-react";
 const BrandPage = () => {
   const params = useParams();
   const brandName = decodeURIComponent(params?.brandname); // Correctly decode
-  console.log(brandName);
+
   const [brand, setBrand] = useState(null);
   const [selectedCar, setSelectedCar] = useState(null);
+
+  const [showPayment, setShowPayment] = useState(false);
+  const [paymentStatus, setPaymentStatus] = useState(null);
+
+  useEffect(() => {
+    if (!selectedCar) {
+      setShowPayment(false);
+      setPaymentStatus(null);
+    }
+  }, [selectedCar]);
 
   useEffect(() => {
     const fetchBrand = async () => {
@@ -101,59 +112,181 @@ const BrandPage = () => {
       </div>
       {/*! Dialog */}
       <Dialog open={!!selectedCar} onOpenChange={() => setSelectedCar(null)}>
-        <DialogContent className="max-w-2xl">
+        <DialogContent className="max-w-2xl rounded-2xl shadow-2xl bg-gradient-to-br from-white to-gray-50 p-0 border-0">
           {selectedCar && (
-            <>
-              <DialogHeader>
-                <DialogTitle className="text-2xl">
-                  {selectedCar.model}
-                </DialogTitle>
-              </DialogHeader>
+            <div className="flex flex-col max-h-[90vh]">
+              {/* Dialog inner scrollable content */}
+              <div className="overflow-y-auto px-8 py-6 flex-1">
+                {/* ✅ Payment Result State */}
+                {paymentStatus ? (
+                  <div className="text-center py-8 space-y-4">
+                    {paymentStatus === "success" ? (
+                      <>
+                        <CheckCircle className="h-16 w-16 text-green-500 mx-auto" />
+                        <h3 className="text-3xl font-bold text-gray-800">
+                          Payment Successful!
+                        </h3>
+                        <p className="text-gray-600 text-sm">
+                          You’ve purchased <strong>{selectedCar.model}</strong>.
+                          Enjoy your ride!
+                        </p>
+                      </>
+                    ) : (
+                      <>
+                        <XCircle className="h-16 w-16 text-red-500 mx-auto" />
+                        <h3 className="text-3xl font-bold text-gray-800">
+                          Payment Failed
+                        </h3>
+                        <p className="text-gray-600 text-sm">
+                          Oops! Something went wrong. Please try again.
+                        </p>
+                      </>
+                    )}
+                  </div>
+                ) : showPayment ? (
+                  <>
+                    <DialogHeader className="mb-4 text-left">
+                      <DialogTitle className="text-2xl text-gray-900">
+                        Enter Payment Info
+                      </DialogTitle>
+                      <p className="text-sm text-gray-500">
+                        We accept cards and test payments
+                      </p>
+                    </DialogHeader>
 
-              <div className="aspect-video relative rounded-xl overflow-hidden mb-6">
-                <Image
-                  src={selectedCar.image}
-                  alt={selectedCar.model}
-                  fill
-                  className="object-cover"
-                />
+                    <div className="space-y-6">
+                      <div className="p-4 rounded-xl border border-gray-200 bg-white shadow-sm">
+                        <h4 className="font-semibold text-gray-700 mb-3">
+                          Credit Card
+                        </h4>
+                        <input
+                          placeholder="Card Number"
+                          className="w-full p-2 border rounded-lg focus:outline-none focus:ring"
+                        />
+                        <div className="grid grid-cols-2 gap-4 mt-3">
+                          <input
+                            placeholder="Expiry Date"
+                            className="p-2 border rounded-lg"
+                          />
+                          <input
+                            placeholder="CVC"
+                            className="p-2 border rounded-lg"
+                          />
+                        </div>
+                      </div>
+
+                      <div className="p-4 rounded-xl border border-gray-200 bg-white shadow-sm">
+                        <h4 className="font-semibold text-gray-700 mb-3">
+                          Test Payment
+                        </h4>
+                        <div className="grid grid-cols-2 gap-4">
+                          <Button
+                            className="rounded-full bg-green-500 hover:bg-green-600 text-white"
+                            onClick={() => setPaymentStatus("success")}
+                          >
+                            Simulate Success
+                          </Button>
+                          <Button
+                            className="rounded-full bg-red-500 hover:bg-red-600 text-white"
+                            onClick={() => setPaymentStatus("error")}
+                          >
+                            Simulate Error
+                          </Button>
+                        </div>
+                      </div>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    {/* Car Info */}
+                    <DialogHeader>
+                      <DialogTitle className="text-2xl text-gray-900">
+                        {selectedCar.model}
+                      </DialogTitle>
+                    </DialogHeader>
+
+                    <div className="aspect-video relative rounded-xl overflow-hidden shadow mb-6">
+                      <Image
+                        src={selectedCar.image}
+                        alt={selectedCar.model}
+                        fill
+                        className="object-cover"
+                      />
+                    </div>
+
+                    <div className="grid grid-cols-2 gap-4 mb-6 text-gray-700">
+                      <div>
+                        <p className="font-medium">
+                          Price:
+                          <span className="text-lg ml-2 font-semibold text-green-600">
+                            {selectedCar.price}
+                          </span>
+                        </p>
+                      </div>
+                      <div>
+                        <p className="font-medium">
+                          Body Type:
+                          <span className="text-sm ml-2">
+                            {selectedCar.body_type}
+                          </span>
+                        </p>
+                        <p className="font-medium">
+                          Car Type:
+                          <span className="text-sm ml-2">
+                            {selectedCar.car_type}
+                          </span>
+                        </p>
+                      </div>
+                    </div>
+
+                    <div>
+                      <p>{selectedCar.description}</p>
+                    </div>
+                  </>
+                )}
               </div>
 
-              <div className="grid grid-cols-2 gap-4 mb-6">
-                <div className="bg-gray-50 p-4 rounded-lg">
-                  <h4 className="text-sm text-gray-600 mb-1">Price</h4>
-                  <p className="text-lg font-semibold text-emerald-600">
-                    {selectedCar.price}
-                  </p>
-                </div>
-                <div className="bg-gray-50 p-4 rounded-lg">
-                  <h4 className="text-sm text-gray-600 mb-1">Body Type</h4>
-                  <p className="text-lg font-semibold text-gray-900">
-                    {selectedCar.body_type}
-                  </p>
-                </div>
-                <div className="bg-gray-50 p-4 rounded-lg">
-                  <h4 className="text-sm text-gray-600 mb-1">Fuel Type</h4>
-                  <p className="text-lg font-semibold text-gray-900">
-                    {selectedCar.car_type}
-                  </p>
-                </div>
-                <div className="bg-gray-50 p-4 rounded-lg">
-                  <h4 className="text-sm text-gray-600 mb-1">Availability</h4>
-                  <p className="text-lg font-semibold text-gray-900">
-                    In Stock
-                  </p>
-                </div>
+              {/* ✅ Sticky footer buttons */}
+              {/* ✅ Sticky Footer Buttons */}
+              <div className="px-8 py-4 rounded-full  bg-white flex gap-4">
+                {paymentStatus ? (
+                  // After Payment (Success/Error)
+                  <Button
+                    className="w-full pb-4 rounded-full bg-orange-500 hover:bg-orange-600 text-white"
+                    onClick={() => {
+                      setPaymentStatus(null);
+                      setShowPayment(false);
+                    }}
+                  >
+                    Close
+                  </Button>
+                ) : showPayment ? (
+                  // Show Payment Screen Buttons
+                  <>
+                    <Button
+                      className="w-1/2 rounded-full bg-white text-orange-500 border border-orange-500 hover:bg-orange-50 transition"
+                      onClick={() => setShowPayment(false)}
+                    >
+                      Back
+                    </Button>
+                    <Button
+                      className="w-1/2 rounded-full bg-orange-500 hover:bg-orange-600 text-white"
+                      onClick={() => setPaymentStatus("success")}
+                    >
+                      Confirm Payment
+                    </Button>
+                  </>
+                ) : (
+                  // Default Buy Now Screen
+                  <Button
+                    className="w-full rounded-full bg-orange-500 hover:bg-orange-600 text-white"
+                    onClick={() => setShowPayment(true)}
+                  >
+                    Buy Now
+                  </Button>
+                )}
               </div>
-
-              <p className="text-gray-600 leading-relaxed mb-6">
-                {selectedCar.description}
-              </p>
-
-              <Button className="w-full" size="lg">
-                Buy Now
-              </Button>
-            </>
+            </div>
           )}
         </DialogContent>
       </Dialog>
