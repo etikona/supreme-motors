@@ -6,19 +6,20 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const data = [
   {
-    title: "Our Mission",
-    description:
-      "Redefine car ownership through seamless, trustworthy trading experiences across local and global markets.",
-    icon: <Target className="w-8 h-8" />,
-    color: "bg-blue-100/50",
-  },
-  {
     title: "Our Vision",
     description:
       "Become Bangladesh's premier car trade hub through innovation, transparency, and lasting trust.",
     icon: <Eye className="w-8 h-8" />,
     color: "bg-green-100/50",
   },
+  {
+    title: "Our Mission",
+    description:
+      "Redefine car ownership through seamless, trustworthy trading experiences across local and global markets.",
+    icon: <Target className="w-8 h-8" />,
+    color: "bg-blue-100/50",
+  },
+
   {
     title: "Our Objective",
     description:

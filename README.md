@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚗 Premium Car Collection
 
-## Getting Started
+A modern frontend web application built with **Next.js 13+ App Router**, showcasing a collection of premium car brands. The project demonstrates client-side data fetching, optimized image rendering, and responsive grid layouts.
 
-First, run the development server:
+## 📂 Project Structure
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+project-root/
+├── public/
+│ └── new_cars.json # Static JSON data for car brands
+├── app/
+│ └── car-grid/
+│ └── page.tsx # Main grid layout displaying car brands
+├── styles/ # TailwindCSS or other global styles
+├── README.md
+├── package.json
+└── next.config.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- ✅ Client-side rendering with hydration fix
+- ✅ Responsive car brand grid layout
+- ✅ Static JSON data used as API alternative
+- ✅ Optimized image loading with Next.js `Image`
+- ✅ Beautiful loading skeleton using TailwindCSS
+- ✅ Routing to brand detail page via `Link`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Technologies Used
 
-## Learn More
+- **Next.js 13+ (App Router)**
+- **React**
+- **TailwindCSS**
+- **TypeScript (optional)**
+- **Static JSON API from `public/`**
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 How to Run Locally
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/car-grid-app.git
+   cd car-grid-app
+   ```
