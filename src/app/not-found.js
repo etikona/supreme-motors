@@ -19,7 +19,7 @@ export default function NotFoundPage() {
 
         <h1 className="text-5xl font-bold text-gray-900">Oops! 404</h1>
         <p className="text-gray-600 text-lg">
-          The page you're looking for doesn't exist or has been moved.
+          The page you are looking for does not exist or has been moved.
         </p>
 
         <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>

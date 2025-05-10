@@ -9,6 +9,7 @@ const nextConfig = {
       "logos-world.net",
       "www.pngall.com",
       "pngimg.com",
+      "seeklogo.com",
     ],
   },
 };

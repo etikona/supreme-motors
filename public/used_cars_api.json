@@ -184,7 +184,7 @@
   },
   {
     "brand_name": "BMW",
-    "brand_image": "/images/brands/bmw.png",
+    "brand_image": "https://images.seeklogo.com/logo-png/28/2/bmw-flat-logo-png_seeklogo-286962.png",
     "models": [
       {
         "model": "M5",
