@@ -1,4 +1,3 @@
-// app/car-grid/page.tsx (Parent Component)
 "use client";
 
 import { useEffect, useState } from "react";
@@ -8,14 +7,17 @@ import Link from "next/link";
 const CarGrid = () => {
   const [brands, setBrands] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [mounted, setMounted] = useState(false); // ✅ ensure hydration consistency
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true); // mark as client-mounted
+    setMounted(true);
 
     const fetchData = async () => {
       try {
-        const response = await fetch("/new_cars.json");
+        const response = await fetch("/api/new-cars");
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
         const data = await response.json();
         setBrands(data);
       } catch (error) {
@@ -28,7 +30,6 @@ const CarGrid = () => {
     fetchData();
   }, []);
 
-  // ✅ Avoid SSR mismatch: don't render until mounted
   if (!mounted) return null;
 
   if (loading) {

@@ -1,12 +1,12 @@
 [
   {
     "brand_name": "Honda",
-    "brand_image": "/images/brands/honda.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfWfenrbxYGSZSMrH_gcGSzVtklWaOIlFeA&s",
     "models": [
       {
         "model": "HR-V",
         "price": "$67254",
-        "image": "/images/used/honda/hr-v.jpg",
+        "image": "https://i.pinimg.com/736x/bf/d0/f8/bfd0f82eae3ebabcd8d1c5b39280a3ff.jpg",
         "body_type": "Sedan",
         "car_type": "Diesel",
         "running_kilometers": "34788 km",
@@ -15,7 +15,7 @@
       {
         "model": "Element",
         "price": "$53026",
-        "image": "/images/used/honda/element.jpg",
+        "image": "https://i.pinimg.com/736x/7c/db/7e/7cdb7ea6660afcb07bdacf190e7b2c42.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
         "running_kilometers": "163814 km",
@@ -24,7 +24,7 @@
       {
         "model": "Odyssey",
         "price": "$88277",
-        "image": "/images/used/honda/odyssey.jpg",
+        "image": "https://i.pinimg.com/736x/ed/e0/42/ede042359dffa373eb3d33b04c6b3995.jpg",
         "body_type": "Pickup",
         "car_type": "Diesel",
         "running_kilometers": "104687 km",
@@ -34,12 +34,12 @@
   },
   {
     "brand_name": "Audi",
-    "brand_image": "/images/brands/audi.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjw0CAfUd641iIV4YOdtLXAs1kBtbNzxy1g&s",
     "models": [
       {
         "model": "RS5",
         "price": "$58763",
-        "image": "/images/used/audi/rs5.jpg",
+        "image": "https://i.pinimg.com/736x/05/a2/ef/05a2ef77e96df422a3f6c2edae6301e6.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
         "running_kilometers": "40860 km",
@@ -48,7 +48,7 @@
       {
         "model": "A6",
         "price": "$15560",
-        "image": "/images/used/audi/a6.jpg",
+        "image": "https://i.pinimg.com/736x/81/dd/82/81dd82ecc4adf1939bf671b8f85a0f13.jpg",
         "body_type": "Pickup",
         "car_type": "Diesel",
         "running_kilometers": "3140 km",
@@ -57,7 +57,7 @@
       {
         "model": "Q5",
         "price": "$94936",
-        "image": "/images/used/audi/q5.jpg",
+        "image": "https://i.pinimg.com/736x/72/54/b9/7254b90b5b62bb9e386dd105767e056c.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
         "running_kilometers": "42482 km",
@@ -67,12 +67,12 @@
   },
   {
     "brand_name": "Toyota",
-    "brand_image": "/images/brands/toyota.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvGP-PIZvE-T76XKwaOg-1sOGBL1M3tPa5w&s",
     "models": [
       {
         "model": "Corolla",
         "price": "$62773",
-        "image": "/images/used/toyota/corolla.jpg",
+        "image": "https://i.pinimg.com/736x/74/61/4d/74614d884940788ce8d1a6ef46fcb8a9.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
         "running_kilometers": "77897 km",
@@ -81,7 +81,7 @@
       {
         "model": "Tundra",
         "price": "$61056",
-        "image": "/images/used/toyota/tundra.jpg",
+        "image": "https://i.pinimg.com/736x/08/78/d8/0878d8fedc56d380c802a73e5ffa40b1.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
         "running_kilometers": "62683 km",
@@ -90,7 +90,7 @@
       {
         "model": "Sienna",
         "price": "$68262",
-        "image": "/images/used/toyota/sienna.jpg",
+        "image": "https://i.pinimg.com/736x/c9/9d/ca/c99dcab9674ece0a21cb2f539b460ade.jpg",
         "body_type": "SUV",
         "car_type": "Petrol",
         "running_kilometers": "89867 km",
@@ -100,12 +100,12 @@
   },
   {
     "brand_name": "Tesla",
-    "brand_image": "/images/brands/tesla.png",
+    "brand_image": "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logomark-Black-Logo.wine.svg",
     "models": [
       {
         "model": "Model Y Long Range",
         "price": "$22822",
-        "image": "/images/used/tesla/model-y-long-range.jpg",
+        "image": "https://i.pinimg.com/736x/a2/38/cc/a238cc3f18cd71966ebdd14289c7407e.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
         "running_kilometers": "20477 km",
@@ -114,7 +114,7 @@
       {
         "model": "Model S",
         "price": "$87793",
-        "image": "/images/used/tesla/model-s.jpg",
+        "image": "https://i.pinimg.com/736x/d5/da/11/d5da11d9d023a866c2999c9c7c54b333.jpg",
         "body_type": "Wagon",
         "car_type": "Electric",
         "running_kilometers": "164853 km",
@@ -123,7 +123,7 @@
       {
         "model": "Cybertruck",
         "price": "$36279",
-        "image": "/images/used/tesla/cybertruck.jpg",
+        "image": "https://i.pinimg.com/736x/d9/7d/b8/d97db89f47646e3df2e037d2b41beb49.jpg",
         "body_type": "Pickup",
         "car_type": "Diesel",
         "running_kilometers": "24058 km",
@@ -132,7 +132,7 @@
       {
         "model": "Model X",
         "price": "$82442",
-        "image": "/images/used/tesla/model-x.jpg",
+        "image": "https://i.pinimg.com/736x/47/30/e3/4730e3cbb0fc2951dd34140546cd9488.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
         "running_kilometers": "56171 km",
@@ -142,12 +142,12 @@
   },
   {
     "brand_name": "Ford",
-    "brand_image": "/images/brands/ford.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8iwahvHPa3xpO5QtzYEnUC-WTTr5AWa0ZA&s",
     "models": [
       {
         "model": "Bronco",
         "price": "$89560",
-        "image": "/images/used/ford/bronco.jpg",
+        "image": "https://i.pinimg.com/736x/e9/9d/90/e99d90a0704e69f8d190e10d6ee1c993.jpg",
         "body_type": "Convertible",
         "car_type": "Diesel",
         "running_kilometers": "100667 km",
@@ -156,7 +156,7 @@
       {
         "model": "Focus",
         "price": "$38142",
-        "image": "/images/used/ford/focus.jpg",
+        "image": "https://i.pinimg.com/736x/fe/3e/68/fe3e68e4feb5879711b8f623bc3552df.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
         "running_kilometers": "114894 km",
@@ -165,7 +165,7 @@
       {
         "model": "F-150",
         "price": "$36534",
-        "image": "/images/used/ford/f-150.jpg",
+        "image": "https://i.pinimg.com/736x/4c/53/8f/4c538f1e605bd15852e8d3d317e2e2b1.jpg",
         "body_type": "Hatchback",
         "car_type": "Hybrid",
         "running_kilometers": "142859 km",
@@ -174,7 +174,7 @@
       {
         "model": "Fusion",
         "price": "$39606",
-        "image": "/images/used/ford/fusion.jpg",
+        "image": "https://i.pinimg.com/736x/a4/21/b8/a421b859833b7194776fcb3937d2bbdc.jpg",
         "body_type": "Hatchback",
         "car_type": "Diesel",
         "running_kilometers": "65869 km",
@@ -189,7 +189,7 @@
       {
         "model": "M5",
         "price": "$62264",
-        "image": "/images/used/bmw/m5.jpg",
+        "image": "https://images.unsplash.com/photo-1635770311293-b09d08a522fc?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "SUV",
         "car_type": "Electric",
         "running_kilometers": "13419 km",
@@ -198,7 +198,7 @@
       {
         "model": "X5",
         "price": "$37739",
-        "image": "/images/used/bmw/x5.jpg",
+        "image": "https://images.unsplash.com/photo-1635990215146-9931957ac509?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Hatchback",
         "car_type": "Petrol",
         "running_kilometers": "161638 km",
@@ -207,7 +207,7 @@
       {
         "model": "3 Series",
         "price": "$11812",
-        "image": "/images/used/bmw/3-series.jpg",
+        "image": "https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Sedan",
         "car_type": "Diesel",
         "running_kilometers": "14640 km",
@@ -217,12 +217,12 @@
   },
   {
     "brand_name": "Mercedes",
-    "brand_image": "/images/brands/mercedes.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKQ6zit6uy-AHenscudhEdPf1W3kUaY7GvA&s",
     "models": [
       {
         "model": "CLA",
         "price": "$84605",
-        "image": "/images/used/mercedes/cla.jpg",
+        "image": "https://images.unsplash.com/photo-1684239750605-059c21edaf66?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Pickup",
         "car_type": "Diesel",
         "running_kilometers": "173589 km",
@@ -231,7 +231,7 @@
       {
         "model": "S-Class",
         "price": "$94765",
-        "image": "/images/used/mercedes/s-class.jpg",
+        "image": "https://i.pinimg.com/736x/88/f0/39/88f039d66b009e0bc20de113dd38b84a.jpg",
         "body_type": "SUV",
         "car_type": "Petrol",
         "running_kilometers": "175416 km",
@@ -240,7 +240,7 @@
       {
         "model": "EQC",
         "price": "$19401",
-        "image": "/images/used/mercedes/eqc.jpg",
+        "image": "https://i.pinimg.com/736x/78/b9/98/78b998304fe70cf89dbb16ab0480aa6d.jpg",
         "body_type": "Wagon",
         "car_type": "Hybrid",
         "running_kilometers": "12997 km",
@@ -250,12 +250,12 @@
   },
   {
     "brand_name": "Lamborghini",
-    "brand_image": "/images/brands/lamborghini.png",
+    "brand_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU_xYq1N1zn2W0kC-9-uYZ-On0XmJNwqWjA&s",
     "models": [
       {
         "model": "Urus",
         "price": "$78527",
-        "image": "/images/used/lamborghini/urus.jpg",
+        "image": "https://i.pinimg.com/736x/71/c8/42/71c84233826b242b8ba7c22e0a2c0659.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
         "running_kilometers": "141240 km",
@@ -264,7 +264,7 @@
       {
         "model": "Aventador",
         "price": "$51552",
-        "image": "/images/used/lamborghini/aventador.jpg",
+        "image": "https://i.pinimg.com/736x/97/cd/15/97cd15938ae759eaed8bda9d881bb6ce.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
         "running_kilometers": "60599 km",
@@ -273,7 +273,7 @@
       {
         "model": "Gallardo",
         "price": "$46294",
-        "image": "/images/used/lamborghini/gallardo.jpg",
+        "image": "https://i.pinimg.com/736x/27/8d/f4/278df4b1e83632034c2ea1ad62dd290c.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
         "running_kilometers": "26081 km",
