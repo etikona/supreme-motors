@@ -4,29 +4,30 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import Image from "next/image";
 import { Card, CardContent } from "@/components/ui/card";
-import { Facebook, Linkedin, Instagram } from "lucide-react";
-
+import { Facebook, Instagram, Linkedin } from "lucide-react";
+import asha from "../../../public/assets/asha.jpg";
+import rafy from "../../../public/assets/rafy.jpg";
 const founders = [
   {
     name: "Aisha Akter Asha",
     title: "Managing Director (MD)",
-    image: "/assets/aisha.jpg", // Add real image to public/assets
+    image: asha, // Add real image to public/assets
     bio: "BBA in Management Studies, Gopalganj Science and Technology University",
     socials: {
-      facebook: "#",
-      linkedin: "#",
-      instagram: "#",
+      facebook: "https://www.facebook.com/aishaakter.asha15",
+      linkedin: "https://bd.linkedin.com/in/aisha-akter-asha-b53a2a355",
+      instagram: "https://www.instagram.com/__ashaa_._",
     },
   },
   {
     name: "Redoan Al Aziz Rafy",
     title: "Chief Executive Officer (CEO)",
-    image: "/assets/rafy.jpg", // Add real image to public/assets
+    image: rafy, // Add real image to public/assets
     bio: "BBA in Management Studies, Gopalganj Science and Technology University",
     socials: {
-      facebook: "#",
+      facebook: "https://www.facebook.com/profile.php?id=100007551554732",
       linkedin: "#",
-      instagram: "#",
+      instagram: "https://www.instagram.com/radoan_rafy/",
     },
   },
 ];
@@ -71,7 +72,7 @@ const FoundersSection = () => {
                 <p className="text-blue-600 font-medium">{founder.title}</p>
                 <p className="mt-2 text-sm text-gray-600">{founder.bio}</p>
                 <div className="flex gap-4 mt-4">
-                  <a href={founder.socials.facebook} target="_blank">
+                  <a href={founder.socials.facebook} target="">
                     <Facebook className="w-5 h-5 text-blue-500 hover:text-blue-700" />
                   </a>
                   <a href={founder.socials.linkedin} target="_blank">
