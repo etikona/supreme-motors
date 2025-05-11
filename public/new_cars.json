@@ -5,7 +5,7 @@
     "models": [
       {
         "model": "3 Series",
-        "price": "$51710",
+        "price": "$62710",
         "image": "https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -13,7 +13,7 @@
       },
       {
         "model": "5 Series",
-        "price": "$139570",
+        "price": "$72000",
         "image": "https://images.unsplash.com/photo-1652890058094-a3fe8ead30fa?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Wagon",
         "car_type": "Petrol",
@@ -21,7 +21,7 @@
       },
       {
         "model": "7 Series",
-        "price": "$42061",
+        "price": "$182061",
         "image": "https://images.unsplash.com/photo-1627936354732-ffbe552799d8?q=80&w=2124&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -29,7 +29,7 @@
       },
       {
         "model": "X1",
-        "price": "$151309",
+        "price": "$51309",
         "image": "https://images.unsplash.com/photo-1677517859847-0e750bfd13a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Convertible",
         "car_type": "Diesel",
@@ -37,7 +37,7 @@
       },
       {
         "model": "X3",
-        "price": "$107716",
+        "price": "$707716",
         "image": "https://images.unsplash.com/photo-1677961019377-d45643fde74f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Wagon",
         "car_type": "Electric",
@@ -45,7 +45,7 @@
       },
       {
         "model": "X5",
-        "price": "$191057",
+        "price": "$97057",
         "image": "https://images.unsplash.com/photo-1635990215146-9931957ac509?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "SUV",
         "car_type": "Electric",
@@ -53,7 +53,7 @@
       },
       {
         "model": "X7",
-        "price": "$199133",
+        "price": "$132133",
         "image": "https://images.unsplash.com/photo-1701985470695-e430a8fdc8d6?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Pickup",
         "car_type": "Hybrid",
@@ -61,7 +61,7 @@
       },
       {
         "model": "i3",
-        "price": "$42090",
+        "price": "$92090",
         "image": "https://images.unsplash.com/photo-1666005336445-3b5fdcc6cc3b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -69,7 +69,7 @@
       },
       {
         "model": "i4",
-        "price": "$64161",
+        "price": "$114161",
         "image": "https://images.unsplash.com/photo-1727994832515-7888b6edd884?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "SUV",
         "car_type": "Electric",
@@ -77,7 +77,7 @@
       },
       {
         "model": "iX",
-        "price": "$146557",
+        "price": "$96557",
         "image": "https://images.unsplash.com/photo-1642189673400-2c5f1253af27?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Sedan",
         "car_type": "Diesel",
@@ -85,7 +85,7 @@
       },
       {
         "model": "M3",
-        "price": "$113096",
+        "price": "$873096",
         "image": "https://images.unsplash.com/photo-1570356528233-b442cf2de345?q=80&w=1966&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -93,7 +93,7 @@
       },
       {
         "model": "M5",
-        "price": "$84692",
+        "price": "$124692",
         "image": "https://images.unsplash.com/photo-1635770311293-b09d08a522fc?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -115,7 +115,7 @@
       },
       {
         "model": "E-Class",
-        "price": "$185549",
+        "price": "$85549",
         "image": "https://images.unsplash.com/photo-1609703048009-d3576872b32c?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Sedan",
         "car_type": "Diesel",
@@ -123,7 +123,7 @@
       },
       {
         "model": "S-Class",
-        "price": "$110675",
+        "price": "$310675",
         "image": "https://images.unsplash.com/photo-1619221496652-7ee3d7406203?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Wagon",
         "car_type": "Petrol",
@@ -131,7 +131,7 @@
       },
       {
         "model": "GLA",
-        "price": "$41770",
+        "price": "$81770",
         "image": "https://images.unsplash.com/photo-1684239750605-059c21edaf66?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -139,7 +139,7 @@
       },
       {
         "model": "GLC",
-        "price": "$45471",
+        "price": "$85471",
         "image": "https://images.unsplash.com/photo-1634767792568-594ee35a8e14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -163,7 +163,7 @@
       },
       {
         "model": "A-Class",
-        "price": "$24795",
+        "price": "$74795",
         "image": "https://images.unsplash.com/photo-1686562483617-3cf08d81e117?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "body_type": "Coupe",
         "car_type": "Petrol",
@@ -217,7 +217,7 @@
       },
       {
         "model": "A4",
-        "price": "$24241",
+        "price": "$74241",
         "image": "https://i.pinimg.com/736x/1e/1c/02/1e1c02311cb1ed1c72a2cc19f1a886e8.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -257,7 +257,7 @@
       },
       {
         "model": "Q7",
-        "price": "$39498",
+        "price": "$79498",
         "image": "https://i.pinimg.com/736x/6b/e1/88/6be188e66529235628599c5be80cdcad.jpg",
         "body_type": "Hatchback",
         "car_type": "Hybrid",
@@ -265,7 +265,7 @@
       },
       {
         "model": "Q8",
-        "price": "$63910",
+        "price": "$153910",
         "image": "https://i.pinimg.com/736x/9b/7e/48/9b7e484de26dbbde18daa34bd1276d4a.jpg",
         "body_type": "Hatchback",
         "car_type": "Electric",
@@ -297,7 +297,7 @@
       },
       {
         "model": "R8",
-        "price": "$38876",
+        "price": "$98876",
         "image": "https://i.pinimg.com/736x/8a/bb/48/8abb48e646af1641a9070fefdcef5681.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -413,7 +413,7 @@
     "models": [
       {
         "model": "Aventador",
-        "price": "$74842",
+        "price": "$548420",
         "image": "https://i.pinimg.com/736x/97/cd/15/97cd15938ae759eaed8bda9d881bb6ce.jpg",
         "body_type": "Wagon",
         "car_type": "Hybrid",
@@ -421,7 +421,7 @@
       },
       {
         "model": "Hurac\u00e1n",
-        "price": "$94818",
+        "price": "$748182",
         "image": "https://i.pinimg.com/736x/a2/1e/57/a21e57ff2cc47a840a70cfa27218a846.jpg",
         "body_type": "Wagon",
         "car_type": "Electric",
@@ -429,7 +429,7 @@
       },
       {
         "model": "Urus",
-        "price": "$29263",
+        "price": "$1092632",
         "image": "https://i.pinimg.com/736x/71/c8/42/71c84233826b242b8ba7c22e0a2c0659.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
@@ -437,7 +437,7 @@
       },
       {
         "model": "Revuelto",
-        "price": "$146947",
+        "price": "$846947",
         "image": "https://i.pinimg.com/736x/b0/ba/84/b0ba8404dfc96f87c01c1e3921c3f536.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
@@ -445,7 +445,7 @@
       },
       {
         "model": "Gallardo",
-        "price": "$50739",
+        "price": "$807390",
         "image": "https://i.pinimg.com/736x/27/8d/f4/278df4b1e83632034c2ea1ad62dd290c.jpg",
         "body_type": "Wagon",
         "car_type": "Petrol",
@@ -453,7 +453,7 @@
       },
       {
         "model": "Veneno",
-        "price": "$63777",
+        "price": "$637770",
         "image": "https://i.pinimg.com/736x/d2/8d/06/d28d06dd463856ad0139a75eabfc13df.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -461,7 +461,7 @@
       },
       {
         "model": "Centenario",
-        "price": "$154058",
+        "price": "$854058",
         "image": "https://i.pinimg.com/736x/86/74/7f/86747f7c5772a643b56e56f58854ebc5.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -469,7 +469,7 @@
       },
       {
         "model": "Sesto Elemento",
-        "price": "$102721",
+        "price": "$1027210",
         "image": "https://i.pinimg.com/736x/71/d4/49/71d4491303a3aa7b5b64f71179d06d81.jpg",
         "body_type": "Sedan",
         "car_type": "Petrol",
@@ -477,7 +477,7 @@
       },
       {
         "model": "Murci\u00e9lago",
-        "price": "$148415",
+        "price": "$1248415",
         "image": "https://i.pinimg.com/736x/2b/9a/3e/2b9a3e6bf03f053cde050ef1926abc7e.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -485,7 +485,7 @@
       },
       {
         "model": "Diablo",
-        "price": "$89627",
+        "price": "$809627",
         "image": "https://i.pinimg.com/736x/2d/15/ca/2d15caed6fca1006e55244968f5e4e1d.jpg",
         "body_type": "Hatchback",
         "car_type": "Electric",
@@ -493,7 +493,7 @@
       },
       {
         "model": "Revent\u00f3n",
-        "price": "$43951",
+        "price": "$439510",
         "image": "https://i.pinimg.com/736x/cc/e0/a2/cce0a27bc1f53b14f1787d232f1649bf.jpg",
         "body_type": "Sedan",
         "car_type": "Hybrid",
@@ -539,7 +539,7 @@
       },
       {
         "model": "Mustang",
-        "price": "$162030",
+        "price": "$262030",
         "image": "https://i.pinimg.com/736x/4c/53/8f/4c538f1e605bd15852e8d3d317e2e2b1.jpg",
         "body_type": "Pickup",
         "car_type": "Petrol",
@@ -609,7 +609,7 @@
     "models": [
       {
         "model": "Renegade",
-        "price": "$192621",
+        "price": "$59262",
         "image": "https://i.pinimg.com/736x/b1/9a/68/b19a68beb347b232c175a0579d705b91.jpg",
         "body_type": "Sedan",
         "car_type": "Petrol",
@@ -617,7 +617,7 @@
       },
       {
         "model": "Compass",
-        "price": "$111561",
+        "price": "$20156",
         "image": "https://i.pinimg.com/736x/c1/53/67/c15367689ac9dbce1bf328ef2eae6533.jpg",
         "body_type": "Convertible",
         "car_type": "Diesel",
@@ -633,7 +633,7 @@
       },
       {
         "model": "Grand Cherokee",
-        "price": "$40396",
+        "price": "$70396",
         "image": "https://i.pinimg.com/736x/9f/85/02/9f8502e7c51e4a6087805a767b1e9326.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -641,7 +641,7 @@
       },
       {
         "model": "Wrangler",
-        "price": "$151968",
+        "price": "$851968",
         "image": "https://i.pinimg.com/736x/3e/1a/a0/3e1aa02dc20da2c22c11f5e16482ae2e.jpg",
         "body_type": "Coupe",
         "car_type": "Petrol",
@@ -719,7 +719,7 @@
       },
       {
         "model": "Discovery",
-        "price": "$73388",
+        "price": "$93388",
         "image": "https://i.pinimg.com/736x/2d/bd/39/2dbd395fa30ed26a64b01ca47c34daf7.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -727,7 +727,7 @@
       },
       {
         "model": "Discovery Sport",
-        "price": "$119570",
+        "price": "$219570",
         "image": "https://i.pinimg.com/736x/39/53/da/3953dab9825d5e3a8233effb76d7792c.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -735,7 +735,7 @@
       },
       {
         "model": "Range Rover",
-        "price": "$78108",
+        "price": "$228108",
         "image": "https://i.pinimg.com/736x/94/08/6e/94086e7e6ec134d47c282640acf7155c.jpg",
         "body_type": "Sedan",
         "car_type": "Hybrid",
@@ -781,7 +781,7 @@
     "models": [
       {
         "model": "Elantra",
-        "price": "$131410",
+        "price": "$31410",
         "image": "https://i.pinimg.com/736x/20/2d/3d/202d3dcca359714bb77606707880ab09.jpg",
         "body_type": "Sedan",
         "car_type": "Petrol",
@@ -789,7 +789,7 @@
       },
       {
         "model": "Sonata",
-        "price": "$162622",
+        "price": "$22622",
         "image": "https://i.pinimg.com/736x/8e/d8/08/8ed808e27fc8aea20590667d57421167.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -797,7 +797,7 @@
       },
       {
         "model": "Accent",
-        "price": "$71035",
+        "price": "$11035",
         "image": "https://i.pinimg.com/736x/11/7f/7b/117f7b415d25a50a985a76d3c6b5550b.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -805,7 +805,7 @@
       },
       {
         "model": "i20",
-        "price": "$76395",
+        "price": "$8395",
         "image": "https://i.pinimg.com/736x/e6/94/8e/e6948e2033b6d9cc8259bdd31dd44361.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -813,7 +813,7 @@
       },
       {
         "model": "i30",
-        "price": "$109998",
+        "price": "$12098",
         "image": "https://i.pinimg.com/736x/84/78/ed/8478ed175d76ffe7b45e122e6a9fee5e.jpg",
         "body_type": "Pickup",
         "car_type": "Petrol",
@@ -821,7 +821,7 @@
       },
       {
         "model": "Creta",
-        "price": "$151528",
+        "price": "$15528",
         "image": "https://i.pinimg.com/736x/1e/1b/e0/1e1be076e473764ed2a1488273c424b2.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -829,7 +829,7 @@
       },
       {
         "model": "Tucson",
-        "price": "$125052",
+        "price": "$25052",
         "image": "https://i.pinimg.com/736x/23/6d/86/236d86f679e71a1ef1f9604d3b551624.jpg",
         "body_type": "Wagon",
         "car_type": "Electric",
@@ -838,7 +838,7 @@
 
       {
         "model": "Verna",
-        "price": "$134662",
+        "price": "$14662",
         "image": "https://i.pinimg.com/736x/13/0f/65/130f65494f4fa798f751718842e54179.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -852,7 +852,7 @@
     "models": [
       {
         "model": "Civic",
-        "price": "$138406",
+        "price": "$18406",
         "image": "https://i.pinimg.com/736x/ed/e0/42/ede042359dffa373eb3d33b04c6b3995.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -860,7 +860,7 @@
       },
       {
         "model": "Accord",
-        "price": "$47476",
+        "price": "$12476",
         "image": "https://i.pinimg.com/736x/5e/a0/d5/5ea0d5b4bb58c2aeb25768d55a19ced9.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -868,7 +868,7 @@
       },
       {
         "model": "City",
-        "price": "$97762",
+        "price": "$27762",
         "image": "https://i.pinimg.com/736x/53/05/da/5305da8b96c637065b1456f671485179.jpg",
         "body_type": "Pickup",
         "car_type": "Hybrid",
@@ -876,7 +876,7 @@
       },
       {
         "model": "Jazz",
-        "price": "$120793",
+        "price": "$32793",
         "image": "https://i.pinimg.com/736x/18/3d/bf/183dbfb6aa983dd02cb370731b9b33b7.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -884,7 +884,7 @@
       },
       {
         "model": "Amaze",
-        "price": "$71757",
+        "price": "$1757",
         "image": "https://i.pinimg.com/736x/7c/db/7e/7cdb7ea6660afcb07bdacf190e7b2c42.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -892,7 +892,7 @@
       },
       {
         "model": "CR-V",
-        "price": "$93680",
+        "price": "$36800",
         "image": "https://i.pinimg.com/736x/73/ec/ac/73ecac9223c0720a10952cf43fd857a2.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -900,7 +900,7 @@
       },
       {
         "model": "HR-V",
-        "price": "$141034",
+        "price": "$41034",
         "image": "https://i.pinimg.com/736x/bf/d0/f8/bfd0f82eae3ebabcd8d1c5b39280a3ff.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -922,7 +922,7 @@
       },
       {
         "model": "Camry",
-        "price": "$107319",
+        "price": "$47319",
         "image": "https://i.pinimg.com/736x/fc/e0/0b/fce00b1df488c389916f9994a23fca10.jpg",
         "body_type": "Sedan",
         "car_type": "Petrol",
@@ -930,7 +930,7 @@
       },
       {
         "model": "Prius",
-        "price": "$71466",
+        "price": "$27466",
         "image": "https://i.pinimg.com/736x/f1/46/d4/f146d4a51740367e2f2c340cdea15a6c.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -954,7 +954,7 @@
       },
       {
         "model": "Fortuner",
-        "price": "$192109",
+        "price": "$42109",
         "image": "https://i.pinimg.com/736x/dd/5b/44/dd5b44c2058df8a5952208490f943323.jpg",
         "body_type": "Wagon",
         "car_type": "Hybrid",
@@ -984,7 +984,7 @@
     "models": [
       {
         "model": "Nano",
-        "price": "$24206",
+        "price": "$4206",
         "image": "https://i.pinimg.com/736x/a7/f6/ea/a7f6eab73dbbd879e24699b0f7a24352.jpg",
         "body_type": "Convertible",
         "car_type": "Diesel",
@@ -992,7 +992,7 @@
       },
       {
         "model": "Tiago",
-        "price": "$120312",
+        "price": "$20312",
         "image": "https://i.pinimg.com/736x/37/78/b1/3778b112253b2a1857361d3c46e0a698.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1000,7 +1000,7 @@
       },
       {
         "model": "Tigor",
-        "price": "$65522",
+        "price": "$15522",
         "image": "https://i.pinimg.com/736x/0c/b3/35/0cb335032d5fa70c9234605e4797f54a.jpg",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -1008,7 +1008,7 @@
       },
       {
         "model": "Altroz",
-        "price": "$164910",
+        "price": "$14910",
         "image": "https://i.pinimg.com/736x/60/5f/4f/605f4f8fa3db4cabcee9ca6cd4b7c0de.jpg",
         "body_type": "Pickup",
         "car_type": "Diesel",
@@ -1016,7 +1016,7 @@
       },
       {
         "model": "Nexon",
-        "price": "$173648",
+        "price": "$17648",
         "image": "https://i.pinimg.com/736x/d0/da/b7/d0dab797d152cb4a19fc9971d0609ad9.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
@@ -1024,7 +1024,7 @@
       },
       {
         "model": "Harrier",
-        "price": "$125569",
+        "price": "$25569",
         "image": "https://i.pinimg.com/736x/cb/42/24/cb422472c28222dbca71e0aef1e54290.jpg",
         "body_type": "SUV",
         "car_type": "Electric",
@@ -1032,7 +1032,7 @@
       },
       {
         "model": "Safari",
-        "price": "$178732",
+        "price": "$78732",
         "image": "https://i.pinimg.com/736x/f4/54/7e/f4547e9c591f0e12dabcdfa135118b13.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -1054,7 +1054,7 @@
     "models": [
       {
         "model": "Hardtop 2 Door",
-        "price": "$107922",
+        "price": "$47922",
         "image": "https://i.pinimg.com/736x/83/cb/db/83cbdb955bbcc0c930c69b9e02a2605a.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -1063,7 +1063,7 @@
 
       {
         "model": "Convertible",
-        "price": "$189314",
+        "price": "$59314",
         "image": "https://i.pinimg.com/736x/1f/25/ed/1f25ede4fe25ebb919c8aeb533c3061f.jpg",
         "body_type": "SUV",
         "car_type": "Electric",
@@ -1079,7 +1079,7 @@
       },
       {
         "model": "Countryman",
-        "price": "$110229",
+        "price": "$40229",
         "image": "https://i.pinimg.com/736x/5d/dd/16/5ddd16d81b51788c7db98f2c024a47b8.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -1087,7 +1087,7 @@
       },
       {
         "model": "SE Electric",
-        "price": "$117002",
+        "price": "$57002",
         "image": "https://i.pinimg.com/736x/b4/12/1a/b4121ab3d83d7912362d6b031c7f6f55.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1101,7 +1101,7 @@
     "models": [
       {
         "model": "S60",
-        "price": "$59166",
+        "price": "$591660",
         "image": "https://i.pinimg.com/736x/29/f5/7b/29f57b27cca59b3667c4f4189b1bbca4.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -1117,7 +1117,7 @@
       },
       {
         "model": "V60",
-        "price": "$57488",
+        "price": "$97488",
         "image": "https://i.pinimg.com/736x/f1/21/98/f12198b5970b916b08f73078fa365a05.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -1133,7 +1133,7 @@
       },
       {
         "model": "XC40",
-        "price": "$34170",
+        "price": "$341700",
         "image": "https://i.pinimg.com/736x/b1/38/7c/b1387c1c3d398aa0eba1f903d22bf90d.jpg",
         "body_type": "Wagon",
         "car_type": "Petrol",
@@ -1165,7 +1165,7 @@
       },
       {
         "model": "V60 Cross Country",
-        "price": "$125916",
+        "price": "$225916",
         "image": "https://i.pinimg.com/736x/6d/d7/2c/6dd72c5ae3f744dbccdecc1269bdac0a.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -1179,7 +1179,7 @@
     "models": [
       {
         "model": "Micra",
-        "price": "$89365",
+        "price": "$29365",
         "image": "https://i.pinimg.com/736x/5e/48/e7/5e48e7a7e61df55ceef4f9575b4f959c.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -1195,7 +1195,7 @@
       },
       {
         "model": "Altima",
-        "price": "$124764",
+        "price": "$24764",
         "image": "https://i.pinimg.com/736x/b3/59/aa/b359aa6ad37a31a47900bcca2aa1e463.jpg",
         "body_type": "Pickup",
         "car_type": "Petrol",
@@ -1203,7 +1203,7 @@
       },
       {
         "model": "Sentra",
-        "price": "$73051",
+        "price": "$33051",
         "image": "https://i.pinimg.com/736x/03/bc/de/03bcde81bd6808f36f65f1782eed3724.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -1319,7 +1319,7 @@
     "models": [
       {
         "model": "911",
-        "price": "$169240",
+        "price": "$269240",
         "image": "https://i.pinimg.com/736x/0e/c7/31/0ec73127db330ff5d05020c8679eb8c3.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1327,7 +1327,7 @@
       },
       {
         "model": "Cayman",
-        "price": "$100454",
+        "price": "$300454",
         "image": "https://i.pinimg.com/736x/f3/16/6d/f3166da3507b920b54798da5e093d748.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -1335,7 +1335,7 @@
       },
       {
         "model": "Boxster",
-        "price": "$71889",
+        "price": "$718892",
         "image": "https://i.pinimg.com/736x/8e/f6/2d/8ef62d8fbe7ddaea83d1b4ba9d6eac99.jpg",
         "body_type": "Pickup",
         "car_type": "Hybrid",
@@ -1343,7 +1343,7 @@
       },
       {
         "model": "Panamera",
-        "price": "$141435",
+        "price": "$441435",
         "image": "https://i.pinimg.com/736x/ef/01/47/ef01475f1ee30ed9287906efdf2a5358.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -1351,7 +1351,7 @@
       },
       {
         "model": "Macan",
-        "price": "$102157",
+        "price": "$5021572",
         "image": "https://i.pinimg.com/736x/43/b7/62/43b762a56f7783d7c34e93f79f327735.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1359,7 +1359,7 @@
       },
       {
         "model": "Cayenne",
-        "price": "$91619",
+        "price": "$916194",
         "image": "https://i.pinimg.com/736x/81/e1/3b/81e13bf94c32b3535dffbbc473b7c260.jpg",
         "body_type": "SUV",
         "car_type": "Petrol",
@@ -1367,7 +1367,7 @@
       },
       {
         "model": "Taycan",
-        "price": "$183866",
+        "price": "$883866",
         "image": "https://i.pinimg.com/736x/30/8e/3b/308e3b72451cf5d8bedfe55a2cd1bae0.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
@@ -1375,7 +1375,7 @@
       },
       {
         "model": "918 Spyder",
-        "price": "$133060",
+        "price": "$533060",
         "image": "https://i.pinimg.com/736x/f8/44/b5/f844b534e652583d5237664882784509.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
@@ -1384,7 +1384,7 @@
 
       {
         "model": "944",
-        "price": "$172981",
+        "price": "$872981",
         "image": "https://i.pinimg.com/736x/ba/8a/7d/ba8a7d1efa475b20a75d90aff5c7f3f9.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -1393,7 +1393,7 @@
 
       {
         "model": "928",
-        "price": "$164039",
+        "price": "$664039",
         "image": "https://i.pinimg.com/736x/08/96/0d/08960dc8463bdf950231f04af01bacea.jpg",
         "body_type": "Wagon",
         "car_type": "Electric",
@@ -1407,7 +1407,7 @@
     "models": [
       {
         "model": "Phantom",
-        "price": "$21517",
+        "price": "$815170",
         "image": "https://i.pinimg.com/736x/da/18/4c/da184c40a0e5b9739b64a38300ffa19f.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -1415,7 +1415,7 @@
       },
       {
         "model": "Ghost",
-        "price": "$56360",
+        "price": "$1563600",
         "image": "https://i.pinimg.com/736x/d0/0b/12/d00b1228efd39e8ed17e2ec6bb36c240.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1423,7 +1423,7 @@
       },
       {
         "model": "Wraith",
-        "price": "$102151",
+        "price": "$2221510",
         "image": "https://i.pinimg.com/736x/f8/65/02/f865021a947757c2d7122a09c00842ed.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -1431,7 +1431,7 @@
       },
       {
         "model": "Dawn",
-        "price": "$160141",
+        "price": "$1601410",
         "image": "https://i.pinimg.com/736x/db/7b/78/db7b78ad07e762da3f4a62fc374ca8db.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -1439,7 +1439,7 @@
       },
       {
         "model": "Cullinan",
-        "price": "$52695",
+        "price": "$526950",
         "image": "https://i.pinimg.com/736x/55/dc/00/55dc00d42f63cc34311338be9eceaa20.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -1453,7 +1453,7 @@
     "models": [
       {
         "model": "DB11",
-        "price": "$143572",
+        "price": "$443572",
         "image": "https://i.pinimg.com/736x/53/5a/35/535a35b6c9b10f989074e6f644c76fb1.jpg",
         "body_type": "Wagon",
         "car_type": "Hybrid",
@@ -1461,7 +1461,7 @@
       },
       {
         "model": "Vantage",
-        "price": "$161210",
+        "price": "$961210",
         "image": "https://i.pinimg.com/736x/20/29/6b/20296b205c88cb42b93b80f00f84a15f.jpg",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -1469,7 +1469,7 @@
       },
       {
         "model": "DBS",
-        "price": "$100321",
+        "price": "$1003210",
         "image": "https://i.pinimg.com/736x/a4/e9/ab/a4e9ab947d9dc4ad853d9b20a439db15.jpg",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -1477,7 +1477,7 @@
       },
       {
         "model": "DBX",
-        "price": "$114215",
+        "price": "$814215",
         "image": "https://i.pinimg.com/736x/f0/23/c5/f023c584a3c26b1691f2116b578a222d.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -1485,7 +1485,7 @@
       },
       {
         "model": "Rapide",
-        "price": "$67481",
+        "price": "$674812",
         "image": "https://i.pinimg.com/736x/c8/b4/6c/c8b46c97cbbb64aa272da95141b89752.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1493,7 +1493,7 @@
       },
       {
         "model": "Valhalla",
-        "price": "$169569",
+        "price": "$869569",
         "image": "/images/aston-martin/valhalla.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -1501,7 +1501,7 @@
       },
       {
         "model": "Valkyrie",
-        "price": "$54931",
+        "price": "$549312",
         "image": "/images/aston-martin/valkyrie.jpg",
         "body_type": "Sedan",
         "car_type": "Petrol",
@@ -1509,7 +1509,7 @@
       },
       {
         "model": "Lagonda",
-        "price": "$54307",
+        "price": "$843070",
         "image": "/images/aston-martin/lagonda.jpg",
         "body_type": "Coupe",
         "car_type": "Petrol",
@@ -1517,7 +1517,7 @@
       },
       {
         "model": "Virage",
-        "price": "$31884",
+        "price": "$831884",
         "image": "/images/aston-martin/virage.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -1525,7 +1525,7 @@
       },
       {
         "model": "Vanquish",
-        "price": "$105823",
+        "price": "$1058230",
         "image": "https://i.pinimg.com/736x/42/33/53/4233535ab66cd9858c04d84c84425e87.jpg",
         "body_type": "Coupe",
         "car_type": "Petrol",
@@ -1533,7 +1533,7 @@
       },
       {
         "model": "Cygnet",
-        "price": "$23839",
+        "price": "$238392",
         "image": "/images/aston-martin/cygnet.jpg",
         "body_type": "Sedan",
         "car_type": "Electric",
@@ -1541,7 +1541,7 @@
       },
       {
         "model": "One-77",
-        "price": "$132074",
+        "price": "$832074",
         "image": "/images/aston-martin/one-77.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
@@ -1555,7 +1555,7 @@
     "models": [
       {
         "model": "488 GTB",
-        "price": "$176258",
+        "price": "$876258",
         "image": "https://i.pinimg.com/736x/b5/83/e1/b583e190785cfa32b1fbe5f4e10cf691.jpg",
         "body_type": "Coupe",
         "car_type": "Hybrid",
@@ -1563,7 +1563,7 @@
       },
       {
         "model": "F8 Tributo",
-        "price": "$162406",
+        "price": "$662406",
         "image": "https://i.pinimg.com/736x/3d/5b/42/3d5b421063e7365d4cc86c08d45ee9bf.jpg",
         "body_type": "Wagon",
         "car_type": "Diesel",
@@ -1571,7 +1571,7 @@
       },
       {
         "model": "812 Superfast",
-        "price": "$57131",
+        "price": "$571310",
         "image": "https://i.pinimg.com/736x/76/57/33/765733aa53bed2bf3a90c2fe804ee390.jpg",
         "body_type": "Coupe",
         "car_type": "Electric",
@@ -1579,7 +1579,7 @@
       },
       {
         "model": "Roma",
-        "price": "$196024",
+        "price": "$1096024",
         "image": "https://i.pinimg.com/736x/56/65/6b/56656b7b3ce4f2139e9871246b4dd8f5.jpg",
         "body_type": "Coupe",
         "car_type": "Diesel",
@@ -1587,7 +1587,7 @@
       },
       {
         "model": "Portofino",
-        "price": "$191850",
+        "price": "$1092850",
         "image": "https://i.pinimg.com/736x/36/4d/1e/364d1e7acf9536c0fef75884f086f523.jpg",
         "body_type": "Convertible",
         "car_type": "Hybrid",
@@ -1595,7 +1595,7 @@
       },
       {
         "model": "SF90",
-        "price": "$181378",
+        "price": "$1813782",
         "image": "https://i.pinimg.com/736x/65/19/c0/6519c0687591ed38b18deeb6c5c1553a.jpg",
         "body_type": "Sedan",
         "car_type": "Hybrid",
@@ -1603,7 +1603,7 @@
       },
       {
         "model": "LaFerrari",
-        "price": "$137151",
+        "price": "$1507151",
         "image": "https://i.pinimg.com/736x/af/43/12/af431279be7e5b5418d87483f18470d1.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
@@ -1611,7 +1611,7 @@
       },
       {
         "model": "California",
-        "price": "$155827",
+        "price": "$1855827",
         "image": "https://i.pinimg.com/736x/d3/c9/14/d3c9140bd09364d7351c8e44710101c8.jpg",
         "body_type": "Hatchback",
         "car_type": "Petrol",
@@ -1625,7 +1625,7 @@
     "models": [
       {
         "model": "Continental GT",
-        "price": "$22142",
+        "price": "$821420",
         "image": "https://i.pinimg.com/736x/ea/f5/e2/eaf5e276d97d0c2b11ce0a92646debdd.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
@@ -1633,7 +1633,7 @@
       },
       {
         "model": "Flying Spur",
-        "price": "$34989",
+        "price": "$449809",
         "image": "https://i.pinimg.com/736x/57/1d/de/571dde8d8f094a85e6692bdb5c84947c.jpg",
         "body_type": "Hatchback",
         "car_type": "Electric",
@@ -1641,7 +1641,7 @@
       },
       {
         "model": "Bentayga",
-        "price": "$189779",
+        "price": "$2897079",
         "image": "https://i.pinimg.com/736x/f2/f0/7a/f2f07ae2c8d1bb7f1d44ce95d00fb56b.jpg",
         "body_type": "SUV",
         "car_type": "Electric",
@@ -1649,7 +1649,7 @@
       },
       {
         "model": "Mulsanne",
-        "price": "$108794",
+        "price": "$1008794",
         "image": "https://i.pinimg.com/736x/e4/8a/52/e48a5239959e7424825f33a74104897f.jpg",
         "body_type": "Sedan",
         "car_type": "Hybrid",
@@ -1657,7 +1657,7 @@
       },
       {
         "model": "Arnage",
-        "price": "$89782",
+        "price": "$890782",
         "image": "https://i.pinimg.com/736x/38/00/0d/38000d80407adb789a12de869e97b093.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
@@ -1665,7 +1665,7 @@
       },
       {
         "model": "Azure",
-        "price": "$178334",
+        "price": "$6078334",
         "image": "https://i.pinimg.com/736x/8c/1b/0f/8c1b0fbf903b204fcfe9ccdc624e0228.jpg",
         "body_type": "Sedan",
         "car_type": "Hybrid",
@@ -1679,7 +1679,7 @@
     "models": [
       {
         "model": "570S",
-        "price": "$39158",
+        "price": "$391508",
         "image": "https://i.pinimg.com/736x/40/9e/d6/409ed645293cdc07800aff4ecf530eda.jpg",
         "body_type": "Convertible",
         "car_type": "Petrol",
@@ -1687,7 +1687,7 @@
       },
       {
         "model": "600LT",
-        "price": "$152733",
+        "price": "$652733",
         "image": "https://i.pinimg.com/736x/18/55/36/1855366ff202c784b5b0ac82ed1710ae.jpg",
         "body_type": "SUV",
         "car_type": "Petrol",
@@ -1695,7 +1695,7 @@
       },
       {
         "model": "720S",
-        "price": "$85775",
+        "price": "$857075",
         "image": "https://i.pinimg.com/736x/05/a7/14/05a7144f8ff6aa972dc6c5ce74f38cf1.jpg",
         "body_type": "SUV",
         "car_type": "Hybrid",
@@ -1703,7 +1703,7 @@
       },
       {
         "model": "765LT",
-        "price": "$123913",
+        "price": "$223913",
         "image": "https://i.pinimg.com/736x/90/f8/3a/90f83a99bc351a7370f8a4a1e3ce84b3.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -1711,7 +1711,7 @@
       },
       {
         "model": "Artura",
-        "price": "$83268",
+        "price": "$803268",
         "image": "https://i.pinimg.com/736x/c9/51/d8/c951d87ba473b7e9cd41ff4029caecab.jpg",
         "body_type": "Convertible",
         "car_type": "Electric",
@@ -1719,7 +1719,7 @@
       },
       {
         "model": "P1",
-        "price": "$93863",
+        "price": "$924863",
         "image": "https://i.pinimg.com/736x/04/fa/34/04fa342b9e0da96918ebd1a5193c2af8.jpg",
         "body_type": "Pickup",
         "car_type": "Diesel",
@@ -1727,7 +1727,7 @@
       },
       {
         "model": "GT",
-        "price": "$89597",
+        "price": "$890597",
         "image": "https://i.pinimg.com/736x/0a/1b/c7/0a1bc7550cd15eee49a620c3b6ee0f4f.jpg",
         "body_type": "Pickup",
         "car_type": "Electric",
