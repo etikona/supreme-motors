@@ -19,6 +19,7 @@ const navLinks = [
   { href: "/", label: "Home" },
   { href: "/new-cars", label: "New Cars" },
   { href: "/used-cars", label: "Used Cars" },
+  { href: "/sell-trade", label: "Sell/Trade" },
 ];
 
 export default function Navbar() {
