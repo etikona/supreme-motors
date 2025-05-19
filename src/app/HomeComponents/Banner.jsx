@@ -77,7 +77,7 @@ const Banner = () => {
     const interval = setInterval(() => {
       setDirection(1);
       setCurrentSlide((prev) => (prev + 1) % slides.length);
-    }, 8000);
+    }, 3000);
     return () => clearInterval(interval);
   }, []);
 
