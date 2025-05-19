@@ -2,25 +2,106 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
+import { useState, useEffect } from "react";
+
+const slides = [
+  {
+    image:
+      "https://images.unsplash.com/photo-1490902931801-d6f80ca94fe4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    title: "Drive Your Dream",
+    subtitle:
+      "Discover premium new & pre-owned vehicles with transparent pricing and expert guidance.",
+    buttons: [
+      {
+        text: "Explore New Cars",
+        href: "/new-cars",
+        style: "bg-amber-500 hover:bg-amber-600",
+      },
+      {
+        text: "Browse Used Cars",
+        href: "/used-cars",
+        style:
+          "border-2 border-white/20 hover:border-amber-400 hover:bg-black/20",
+      },
+    ],
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?q=80&w=2025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    title: "Luxury Collection",
+    subtitle:
+      "Experience premium comfort and cutting-edge technology in our luxury lineup.",
+    buttons: [
+      {
+        text: "Explore New Cars",
+        href: "/new-cars",
+        style: "bg-amber-500 hover:bg-amber-600",
+      },
+      {
+        text: "Browse Used Cars",
+        href: "/used-cars",
+        style:
+          "border-2 border-white/20 hover:border-amber-400 hover:bg-black/20",
+      },
+    ],
+  },
+
+  {
+    image:
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    title: "Family Friendly",
+    subtitle:
+      "Find the perfect vehicle for your family's needs and adventures.",
+    buttons: [
+      {
+        text: "Explore New Cars",
+        href: "/new-cars",
+        style: "bg-amber-500 hover:bg-amber-600",
+      },
+      {
+        text: "Browse Used Cars",
+        href: "/used-cars",
+        style:
+          "border-2 border-white/20 hover:border-amber-400 hover:bg-black/20",
+      },
+    ],
+  },
+];
 
 const Banner = () => {
+  const [currentSlide, setCurrentSlide] = useState(0);
+  const [direction, setDirection] = useState(1);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setDirection(1);
+      setCurrentSlide((prev) => (prev + 1) % slides.length);
+    }, 8000);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <section className="relative w-full h-[70vh] md:h-[90vh] overflow-hidden">
-      <motion.div
-        initial={{ scale: 1.1 }}
-        animate={{ scale: 1 }}
-        transition={{ duration: 1.2, ease: "easeOut" }}
-        className="absolute inset-0"
-      >
-        <Image
-          src="https://images.unsplash.com/photo-1490902931801-d6f80ca94fe4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-          alt="Car Banner"
-          fill
-          priority
-          className="object-cover"
-        />
-      </motion.div>
+      <AnimatePresence initial={false} custom={direction}>
+        <motion.div
+          key={currentSlide}
+          custom={direction}
+          initial={{ opacity: 0, scale: 1.1 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.9 }}
+          transition={{ duration: 0.6, ease: "easeInOut" }}
+          className="absolute inset-0"
+        >
+          <Image
+            src={slides[currentSlide].image}
+            alt="Car Banner"
+            fill
+            priority
+            className="object-cover"
+          />
+        </motion.div>
+      </AnimatePresence>
 
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/40 to-transparent flex flex-col justify-center items-center text-center px-4">
         <div className="space-y-6 max-w-3xl">
@@ -31,7 +112,7 @@ const Banner = () => {
             className="text-4xl md:text-6xl font-bold text-white drop-shadow-2xl"
           >
             <span className="bg-gradient-to-r from-amber-400 to-orange-500 bg-clip-text text-transparent">
-              Drive Your Dream
+              {slides[currentSlide].title}
             </span>
           </motion.h1>
 
@@ -41,8 +122,7 @@ const Banner = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto leading-relaxed"
           >
-            Discover premium new & pre-owned vehicles with transparent pricing
-            and expert guidance.
+            {slides[currentSlide].subtitle}
           </motion.p>
 
           <motion.div
@@ -51,34 +131,17 @@ const Banner = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="flex gap-4 justify-center flex-wrap"
           >
-            <Link href="/new-cars">
-              <button className="bg-amber-500 hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-2xl">
-                Explore New Cars
-              </button>
-            </Link>
-            <Link href="/used-cars">
-              <button className="border-2 border-white/20 hover:border-amber-400 text-white font-semibold px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 hover:bg-black/20">
-                Browse Used Cars
-              </button>
-            </Link>
+            {slides[currentSlide].buttons.map((button, index) => (
+              <Link
+                key={index}
+                href={button.href}
+                className={`${button.style} text-white inline-block font-semibold px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-2xl`}
+              >
+                {button.text}
+              </Link>
+            ))}
           </motion.div>
         </div>
-
-        {/* Animated Scroll Indicator */}
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.2 }}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2"
-        >
-          <div className="animate-bounce w-8 h-14 rounded-full border-2 border-amber-400 flex items-start justify-center p-1">
-            <motion.div
-              animate={{ y: [0, 20, 0] }}
-              transition={{ duration: 1.5, repeat: Infinity }}
-              className="w-2 h-2 bg-amber-400 rounded-full"
-            />
-          </div>
-        </motion.div>
       </div>
     </section>
   );
