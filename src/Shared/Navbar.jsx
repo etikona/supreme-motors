@@ -14,6 +14,7 @@ import Image from "next/image";
 import logo from "../../public/assets/logo.png";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -124,6 +125,8 @@ export default function Navbar() {
                 </li>
               ))}
             </ul>
+
+            {/* <WhatsAppButton /> */}
           </SheetContent>
         </Sheet>
       </div>
