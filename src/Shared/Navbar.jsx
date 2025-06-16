@@ -20,6 +20,7 @@ const navLinks = [
   { href: "/new-cars", label: "New Cars" },
   { href: "/used-cars", label: "Used Cars" },
   { href: "/sell-trade", label: "Sell/Trade" },
+  { href: "/reviews", label: "Reviews" },
 ];
 
 export default function Navbar() {
